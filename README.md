@@ -108,7 +108,11 @@ get_class_entity_index(_Wikipedia).py
 
 ### 2) Wikipedia article name dump
 
-The Wikipedia article name dump can be accessed via
+The Wikipedia article name dump can be downloaded at
+```
+http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz
+```
+adn accessed via
 ```
 WikiDump.py
 ```

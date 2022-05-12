@@ -1,0 +1,215 @@
+N_gram;relevant;Wikipedia_URL_correct;Wikidata_URL_correct;Wikipedia_article_Wikidump;eval1;Wikipedia_URL_Wikidump;eval2;Wikidata_item_Pywikibot;eval3;Wikidata_URL_Pywikibot;eval4;Wikidata_item_SPARQL;eval5;Wikidata_URL_SPARQL;eval6;comment
+Black holes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+holes in;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+in general;-;-;-;in general;-;https://en.wikipedia.org/wiki/in_general;-;-;-;-;-;-;-;-;-;-
+general relativity;-;-;-;general relativity;-;https://en.wikipedia.org/wiki/general_relativity;-;general relativity;-;https://www.wikidata.org/wiki/Q11452;-;general relativity;-;https://www.wikidata.org/wiki/Q11452;-;-
+relativity are;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+are commonly;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+commonly believed;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+believed to;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+to evolve;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+evolve towards;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+towards a;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+a Schwarzschild;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Schwarzschild state;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+state as;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+as they;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+they gradually;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+gradually lose;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+lose angular;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+angular momentum;-;-;-;angular momentum;-;https://en.wikipedia.org/wiki/angular_momentum;-;angular momentum;-;https://www.wikidata.org/wiki/Q161254;-;angular momentum;-;https://www.wikidata.org/wiki/Q161254;-;-
+momentum and;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+and electrical;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+electrical charge;-;-;-;electrical charge;-;https://en.wikipedia.org/wiki/electrical_charge;-;-;-;-;-;electrical charge;-;https://www.wikidata.org/wiki/Q1111;-;-
+charge under;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+under Hawking;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Hawking evaporation;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+evaporation However;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+However when;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+when Kim;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Kim and;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+and Wen;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Wen applied;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+applied quantum;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+quantum information;-;-;-;quantum information;-;https://en.wikipedia.org/wiki/quantum_information;-;quantum information;-;https://www.wikidata.org/wiki/Q2122243;-;quantum information;-;https://www.wikidata.org/wiki/Q2122243;-;-
+information theory;-;-;-;information theory;-;https://en.wikipedia.org/wiki/information_theory;-;information theory;-;https://www.wikidata.org/wiki/Q131222;-;information theory;-;https://www.wikidata.org/wiki/Q131222;-;-
+theory to;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+to Hawking;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Hawking evaporation;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+evaporation and;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+and argued;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+argued that;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+that Hawking;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Hawking particles;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+particles with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with maximum;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+maximum mutual;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+mutual information;-;-;-;mutual information;-;https://en.wikipedia.org/wiki/mutual_information;-;mutual information;-;https://www.wikidata.org/wiki/Q252973;-;mutual information;-;https://www.wikidata.org/wiki/Q252973;-;-
+information could;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+could dominate;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+dominate the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the emission;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+emission process;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+process they;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+they found;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+found that;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+that charged;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+charged black;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+black holes;-;-;-;black holes;-;https://en.wikipedia.org/wiki/black_holes;-;-;-;-;-;-;-;-;-;-
+holes tend;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+tend towards;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+towards extremality;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+extremality In;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+In view;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+view of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of some;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+some evidence;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+evidence pointing;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+pointing towards;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+towards extremal;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+extremal black;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+black holes;-;-;-;black holes;-;https://en.wikipedia.org/wiki/black_holes;-;-;-;-;-;-;-;-;-;-
+holes being;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+being effectively;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+effectively singular;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+singular this;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+this would;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+would violate;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+violate the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the cosmic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+cosmic censorship;-;-;-;cosmic censorship;-;https://en.wikipedia.org/wiki/cosmic_censorship;-;-;-;-;-;-;-;-;-;-
+censorship conjecture;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+conjecture In;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+In this;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+this work;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+work we;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+we clarified;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+clarified the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the difference;-;-;-;the difference;-;https://en.wikipedia.org/wiki/the_difference;-;-;-;-;-;the difference;-;https://www.wikidata.org/wiki/Q75101527;-;-
+difference between;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+between the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the two;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+two models;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+models --;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+-- they;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+they pertain;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+pertain to;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+to two;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+two different;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+different regimes;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+regimes By;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+By taking;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+taking into;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+into account;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+account the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the discreteness;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+discreteness of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the charge-to-mass;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+charge-to-mass ratio;-;-;-;charge-to-mass ratio;-;https://en.wikipedia.org/wiki/charge-to-mass_ratio;-;-;-;-;-;-;-;-;-;-
+ratio of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of finite;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+finite species;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+species of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of charged;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+charged particles;-;-;-;charged particles;-;https://en.wikipedia.org/wiki/charged_particles;-;-;-;-;-;-;-;-;-;-
+particles we;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+we also;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+also obtained;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+obtained a;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+a clearer;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+clearer picture;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+picture of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the end;-;-;-;the end;-;https://en.wikipedia.org/wiki/the_end;-;-;-;-;-;the end;-;https://www.wikidata.org/wiki/Q6625170;-;-
+end state;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+state of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of Hawking;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Hawking evaporation;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+evaporation We;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+We found;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+found that;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+that in;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+in agreement;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+agreement with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the weak;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+weak gravity;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+gravity conjecture;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+conjecture if;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+if there;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+there is;-;-;-;there is;-;https://en.wikipedia.org/wiki/there_is;-;-;-;-;-;-;-;-;-;-
+is no;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+no particle;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+particle with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with charge-to-mass;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+charge-to-mass ratio;-;-;-;charge-to-mass ratio;-;https://en.wikipedia.org/wiki/charge-to-mass_ratio;-;-;-;-;-;-;-;-;-;-
+ratio q/m>1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+q/m>1 stable;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+stable remnant;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+remnant states;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+states are;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+are formed;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+formed though;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+though they;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+they are;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+are non-extremal;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+non-extremal Furthermore;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Furthermore and;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+and more;-;-;-;and more;-;https://en.wikipedia.org/wiki/and_more;-;-;-;-;-;-;-;-;-;-
+more surprisingly;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+surprisingly we;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+we show;-;-;-;we show;-;https://en.wikipedia.org/wiki/we_show;-;-;-;-;-;-;-;-;-;-
+show that;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+that extremality;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+extremality can;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+can be;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+be reached;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+reached if;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+if there;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+there exists;-;-;-;there exists;-;https://en.wikipedia.org/wiki/there_exists;-;-;-;-;-;there exists;-;https://www.wikidata.org/wiki/Q773483;-;-
+exists a;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+a particle;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+particle with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with q/m<1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+q/m<1 even;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+even in;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+in the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the presence;-;-;-;the presence;-;https://en.wikipedia.org/wiki/the_presence;-;-;-;-;-;-;-;-;-;-
+presence of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of other;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+other particles;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+particles with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with q/m>1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+q/m>1 This;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+This may;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+may explain;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+explain why;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+why there;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+there is;-;-;-;there is;-;https://en.wikipedia.org/wiki/there_is;-;-;-;-;-;-;-;-;-;-
+is no;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+no charged;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+charged particle;-;-;-;charged particle;-;https://en.wikipedia.org/wiki/charged_particle;-;charged particle;-;https://www.wikidata.org/wiki/Q587553;-;charged particle;-;https://www.wikidata.org/wiki/Q587553;-;-
+particle with;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+with q/m<1;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+q/m<1 in;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+in the;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+the Standard;-;-;-;-;-;-;-;the Standard;-;https://www.wikidata.org/wiki/Q16610527;-;-;-;-;-;-
+Standard Model;-;-;-;-;-;-;-;Standard Model;-;https://www.wikidata.org/wiki/Q18338;-;Standard Model;-;https://www.wikidata.org/wiki/Q17106019;-;-
+Model of;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+of particle;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+particle physics;-;-;-;particle physics;-;https://en.wikipedia.org/wiki/particle_physics;-;particle physics;-;https://www.wikidata.org/wiki/Q18334;-;particle physics;-;https://www.wikidata.org/wiki/Q18334;-;-
+physics Cosmic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Cosmic censorship;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+censorship could;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+could thus;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+thus play;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+play a;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+a bigger;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+bigger role;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+role in;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+in fundamental;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+fundamental physics;-;-;-;fundamental physics;-;https://en.wikipedia.org/wiki/fundamental_physics;-;-;-;-;-;-;-;-;-;-
+physics than;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+than previously;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+previously thought;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-

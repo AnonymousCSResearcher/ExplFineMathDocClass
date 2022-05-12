@@ -1,0 +1,2 @@
+runtime sparql: 51.74650979042053
+runtime pywikibot: 138.36203694343567
