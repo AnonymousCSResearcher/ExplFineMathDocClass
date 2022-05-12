@@ -44,11 +44,11 @@ nr_docs = int(tot_rows*train_split_rate)
 ```
 which can be adapted.
 
-### 1*) Dataset statistics
+### 1*) Index statistics
 
-The dataset statistics are generated using
+The index statistics are generated using
 ```
-print_dataset_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
+print_index_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
 ```
 
 ### 1) Generate MSC-keyword mapping
@@ -79,13 +79,17 @@ outpath + 'mscs_prediction_table.csv'
 
 ### 3) Evaluate MSC predictions
 
-The core evaluation is done by
+The train-test-split is generated using
 ```
 train_test_split(table,train_split_rate)
 ```
-and
+To display sparsely populated MSCs, run
 ```
 get_sparse_mscs(table)
+```
+Finally, the evaluation in comparison to the MR-MSCs and keywords baseline is made by
+```
+compare_mr_keyword_refs_dcgs(table)
 ```
 
 ## Wikisource Entity Linking (Wikification)

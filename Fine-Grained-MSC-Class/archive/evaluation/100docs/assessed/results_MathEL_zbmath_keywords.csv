@@ -1,0 +1,13 @@
+﻿Pywikibot;;;
+;retrieved;not retrieved;
+relevant;119 (TP);0 (FP);
+not relevant;17 (FN);3 (TN);
+;;;
+SPARQL;;;
+;retrieved;not retrieved;
+relevant;77 (TP);1 (FP);
+not relevant;58 (FN);2 (TN);
+;;;
+Method;Precision;Recall;TNR
+Pywikibot;1.0;0.875;1.0
+SPARQL;0.987;0.570;0.667
