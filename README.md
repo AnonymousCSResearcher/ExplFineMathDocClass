@@ -20,7 +20,7 @@ Data and algorithms can be found in the folder 'Fine-Grained-MSC-Class'.
 
 The script
 ```
-evaluation.py
+evaluate_classification.py
 ```
 contains all required steps in the data processing pipeline.
 
@@ -96,45 +96,20 @@ compare_mr_keyword_refs_dcgs(table)
 
 Data and algorithms can be found in the folder 'EntityLinking'.
 
-### 0) Documents dataset
+### 1) View manual evaluation
 
-The processed documents are in the folder
+The manually evaluated entity linking is contained in
 ```
-documents/with_msc
+zbmath keywords evaluation_all.csv
 ```
-
-### 1) Class-entity index
-
-To get the class-entity index run
+or excluding not available (N/A) linkings (no Wikidata QID) in
 ```
-get_class_entity_index(_Wikipedia).py
+zbmath keywords evaluation_notna.csv
 ```
 
-### 2) Wikipedia article name dump
+### 2) Score manual evaluation
 
-The Wikipedia article name dump can be downloaded at
-```
-http://dumps.wikimedia.org/enwiki/latest/enwiki-latest-all-titles-in-ns0.gz
-```
-adn accessed via
-```
-WikiDump.py
-```
-
-### 3) Scoring evaluation
-
-The evaluation of the entity linking (paper Table VI for text comparing eval modes 1-6, and Table VII for math ranking formula concept n-grams) can be reproduced via
+The manual assessment is evaluated with the binary scoring (TP, FP, FN, TN) made via
 ```
 get_evaluation_entity_linking.py
-```
-with the binary scoring (TP, FP, FN, TN) made via
-```
-get_scoring_evaluation_entity_linking.py
-```
-
-### 4) Entropies
-
-An entropy index for 'text' or 'math' mode can be obtained via
-```
-get_index_entropies.py
 ```

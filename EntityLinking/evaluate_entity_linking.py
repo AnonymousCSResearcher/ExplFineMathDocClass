@@ -2,7 +2,7 @@ import pandas as pd
 
 # Open table
 
-evaluation_filename = 'Math Entity Linking zbmath keywords evaluation_all.csv'
+evaluation_filename = 'zbmath keywords evaluation_all.csv'
 table = pd.read_csv(evaluation_filename,delimiter=';')
 
 # Retrieve scores
@@ -49,12 +49,20 @@ def get_precision_recall_tnr(binary_classification):
 
     return {'precision': precision,'recall': recall,'tnr': tnr}
 
+print()
+
 # for SPARQL
 binary_classification_sparql = get_binary_classification(scores_sparql,score_benchmark)
+print('binary_classification_sparql: ' + str(binary_classification_sparql))
 precision_recall_tnr_sparql = get_precision_recall_tnr(binary_classification_sparql)
+print('precision_recall_tnr_sparql: ' + str(precision_recall_tnr_sparql))
+
+print()
 
 # for Pywikibot
 binary_classification_pywikibot = get_binary_classification(scores_pywikibot,score_benchmark)
+print('binary_classification_pywikibot: ' + str(binary_classification_pywikibot))
 precision_recall_tnr_pywikibot = get_precision_recall_tnr(binary_classification_pywikibot)
+print('precision_recall_tnr_pywikibot: ' + str(precision_recall_tnr_pywikibot))
 
 print('end')
