@@ -1,9 +1,9 @@
 import pandas as pd
 
-root_path = 'evaluation/alldocs/ngrams_2-3/'
+root_path = ''#'evaluation/alldocs/ngrams_2-3/'
 
 # get tables
-files = ['mscs_prediction_table_binarycontribution.csv','mscs_prediction_table_weightedcontribution.csv']
+files = ['mscs_prediction_table.csv'] #['mscs_prediction_table_binarycontribution.csv','mscs_prediction_table_weightedcontribution.csv']
 tables = [pd.read_csv(root_path + file,delimiter=';') for file in files]
 
 # get overlap ratios
