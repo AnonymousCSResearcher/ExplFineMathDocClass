@@ -1,0 +1,2594 @@
+{
+  "Laguerre polynomials": {
+    "42C10": 1,
+    "33C45": 1,
+    "42A45": 1,
+    "39A70": 1
+  },
+  "linear means": {
+    "42C10": 1,
+    "33C45": 1,
+    "42A45": 1,
+    "39A70": 1
+  },
+  "Lebesgue constants": {
+    "42C10": 1,
+    "33C45": 1,
+    "42A45": 1,
+    "39A70": 1
+  },
+  "weighted Lebesgue spaces": {
+    "42C10": 1,
+    "33C45": 1,
+    "42A45": 1,
+    "39A70": 1
+  },
+  "singular nonlinearities": {
+    "34B15": 1,
+    "34C25": 1,
+    "34B24": 1
+  },
+  "degree theory": {
+    "34B15": 1,
+    "34C25": 1,
+    "34B24": 1
+  },
+  "positive solutions": {
+    "34B15": 2,
+    "34C25": 1,
+    "34B24": 1,
+    "34L05": 1,
+    "34L15": 1
+  },
+  "periodic boundary value problems": {
+    "34B15": 1,
+    "34C25": 1,
+    "34B24": 1
+  },
+  "Sturm-Liouville problems": {
+    "34B15": 1,
+    "34C25": 1,
+    "34B24": 1
+  },
+  "algorithmic information theory": {
+    "94C10": 1,
+    "68Q30": 1
+  },
+  "lower bounds": {
+    "94C10": 1,
+    "68Q30": 1
+  },
+  "multiparty communication complexity": {
+    "94C10": 1,
+    "68Q30": 1
+  },
+  "Boolean functions": {
+    "94C10": 1,
+    "68Q30": 1
+  },
+  "counting protocols": {
+    "68M10": 1
+  },
+  "Newton": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "gravitation": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "potential": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "homogeneous sphere": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "Archimedes computation of volumes": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "potential theory": {
+    "01A45": 1,
+    "70-03": 1,
+    "31-03": 1
+  },
+  "hypercomplex systems": {
+    "16-03": 1,
+    "01A55": 1,
+    "01A60": 1
+  },
+  "division algebras": {
+    "16-03": 1,
+    "01A55": 1,
+    "01A60": 1
+  },
+  "algebraic number theory": {
+    "16-03": 1,
+    "01A55": 1,
+    "01A60": 1
+  },
+  "algebraic geometry": {
+    "16-03": 1,
+    "01A55": 1,
+    "01A60": 1
+  },
+  "eigenvalues of linear control systems": {
+    "93B60": 1,
+    "65F15": 1
+  },
+  "Schwartz form": {
+    "93B60": 1,
+    "65F15": 1
+  },
+  "root locus technique": {
+    "93B60": 1,
+    "65F15": 1
+  },
+  "polynomial": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "height": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "elliptic Mahler measure": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "Lehmers problem": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "entropy": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "(L)-functions": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "elliptic curves": {
+    "11R09": 1,
+    "11G05": 1
+  },
+  "Riemann": {
+    "01A55": 1,
+    "30-03": 1,
+    "01A60": 1
+  },
+  "complex functions": {
+    "01A55": 1,
+    "30-03": 1,
+    "01A60": 1
+  },
+  "liberal arts": {
+    "01A40": 1,
+    "01A35": 1,
+    "01A99": 1
+  },
+  "mathematical education": {
+    "01A40": 1,
+    "01A35": 1,
+    "01A99": 1
+  },
+  "classification of mathematics": {
+    "01A40": 1,
+    "01A35": 1,
+    "01A99": 1
+  },
+  "Prague": {
+    "01A80": 1
+  },
+  "Kepler": {
+    "01A80": 1
+  },
+  "Galileo": {
+    "01A80": 1
+  },
+  "Tycho Brahe": {
+    "01A80": 1
+  },
+  "Solomon Delmedigo": {
+    "01A80": 1
+  },
+  "David Gans": {
+    "01A80": 1
+  },
+  "astronomy": {
+    "01A80": 1
+  },
+  "mathematics": {
+    "01A80": 1
+  },
+  "Hilbert": {
+    "01A60": 1,
+    "01A73": 1
+  },
+  "kinetic theory": {
+    "01A60": 1,
+    "01A73": 1
+  },
+  "radiation theory": {
+    "01A60": 1,
+    "01A73": 1
+  },
+  "quadratic form": {
+    "11H55": 1,
+    "11H50": 1
+  },
+  "positive definite ternary form": {
+    "11H55": 1,
+    "11H50": 1
+  },
+  "reduction": {
+    "11H55": 1,
+    "11H50": 1
+  },
+  "asymptotic distribution": {
+    "11K41": 1,
+    "11J71": 1
+  },
+  "a-adic integers": {
+    "11K41": 1,
+    "11J71": 1
+  },
+  "uniformly distributed sequences modulo 1": {
+    "11K41": 1,
+    "11J71": 1
+  },
+  "approximate functional equation": {
+    "11M35": 1
+  },
+  "remainder": {
+    "11M35": 1
+  },
+  "multiplicative functions": {
+    "11N37": 1,
+    "11N13": 1
+  },
+  "arithmetic progressions": {
+    "11N37": 1,
+    "11N13": 1
+  },
+  "Brun-Titchmarsh theorem": {
+    "11N37": 1,
+    "11N13": 1
+  },
+  "maximum principles": {
+    "35H10": 1,
+    "35J70": 1,
+    "35A05": 1,
+    "35J25": 1
+  },
+  "software package HOMESH": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "hybrid triangular linear elements": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "hybrid 6 quadrilateral quadratic elements": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "automatic generation of high-order finite elements": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "two-dimensional hyperbolic grid generator": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "quadrilateral quadratic elements": {
+    "76M10": 1,
+    "74S05": 1,
+    "65N50": 1,
+    "65M50": 1
+  },
+  "geodesic curves": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "distortion measures": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "inverse mappings": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "isoparametric quadrilateral hybrid stress four- and eight-node elements": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "geometrically exact beam finite strain formulation": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "abstract infinite-dimensional manifold of mappings": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "configuration space": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "linearization of algorithms": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "hybrid stress membrane elements with curved boundaries": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "eight-node isoparametric elements": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "geodesic coordinates": {
+    "74S05": 1,
+    "76M10": 1,
+    "53A99": 1
+  },
+  "Galerkin boundary element method": {
+    "74S15": 1,
+    "74R99": 1
+  },
+  "linearly elastic isotropic three-dimensional solids": {
+    "74S15": 1,
+    "74R99": 1
+  },
+  "displacement integral equation": {
+    "74S15": 1,
+    "74R99": 1
+  },
+  "traction integral equation": {
+    "74S15": 1,
+    "74R99": 1
+  },
+  "crack-tip element": {
+    "74S15": 1,
+    "74R99": 1
+  },
+  "porous viscoplastic solids": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "finite strains": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "material strain": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "strain-rate hardening": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "thermal softening": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "adiabatic heating": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "critical void volume fraction criterion": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "finite element semi-discretization": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "explicit central difference scheme": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "direct differentiation approach": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "automatic differentiation software": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "impact loading": {
+    "74R99": 1,
+    "74K10": 1,
+    "74S20": 1,
+    "74C10": 1
+  },
+  "regularity result": {
+    "74L15": 1,
+    "92C10": 1,
+    "35Q72": 1
+  },
+  "Cowin-Hegedus model": {
+    "74L15": 1,
+    "92C10": 1,
+    "35Q72": 1
+  },
+  "fixed point argument": {
+    "74L15": 1,
+    "92C10": 1,
+    "35Q72": 1
+  },
+  "shape memory materials": {
+    "74A20": 1,
+    "74S05": 1,
+    "74A15": 1
+  },
+  "micromechanical model": {
+    "74A20": 1,
+    "74S05": 1,
+    "74A15": 1
+  },
+  "Prager-type criterion": {
+    "74A20": 1,
+    "74S05": 1,
+    "74A15": 1
+  },
+  "Belleville washer for electrical contracts": {
+    "74A20": 1,
+    "74S05": 1,
+    "74A15": 1
+  },
+  "medical instrument for non-invasive surgery": {
+    "74A20": 1,
+    "74S05": 1,
+    "74A15": 1
+  },
+  "error indicators": {
+    "74S05": 1,
+    "74A55": 1,
+    "74M15": 1,
+    "74B20": 1
+  },
+  "error estimators": {
+    "74S05": 1,
+    "74A55": 1,
+    "74M15": 1,
+    "74B20": 1
+  },
+  "contact area": {
+    "74S05": 1,
+    "74A55": 1,
+    "74M15": 1,
+    "74B20": 1
+  },
+  "automatic mesh refinement": {
+    "74S05": 1,
+    "74A55": 1,
+    "74M15": 1,
+    "74B20": 1
+  },
+  "generalized Taylor series methods": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "characteristic Euler flux resolutions": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "subgrid embedded high-degree Lagrange bases with static condensation": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "assembled-stencil Fourier analysis optimization": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "steady convection-diffusion": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "unsteady convection": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "monotone methods": {
+    "76M10": 1,
+    "76R99": 1
+  },
+  "adjustable scheme": {
+    "76M25": 1,
+    "76N10": 1,
+    "76V05": 1,
+    "76L05": 1,
+    "76D05": 1
+  },
+  "six implicitness parameters": {
+    "76M25": 1,
+    "76N10": 1,
+    "76V05": 1,
+    "76L05": 1,
+    "76D05": 1
+  },
+  "Dirac operator": {
+    "35Q40": 1,
+    "81Q05": 1
+  },
+  "biquaternions": {
+    "35Q40": 1,
+    "81Q05": 1
+  },
+  "electromagnetic potential": {
+    "35Q40": 1,
+    "81Q05": 1
+  },
+  "quaternionic representation": {
+    "35Q40": 1,
+    "81Q05": 1
+  },
+  "decomposition": {
+    "35Q40": 1,
+    "81Q05": 1,
+    "28A60": 1,
+    "28C99": 1
+  },
+  "eikonal equation": {
+    "35Q40": 1,
+    "81Q05": 1
+  },
+  "Hilbert-Schmidt operator-valued stationary processes": {
+    "60G10": 1,
+    "60G25": 1,
+    "47B10": 1
+  },
+  "subordination": {
+    "60G10": 1,
+    "60G25": 1,
+    "47B10": 1
+  },
+  "spectral measure": {
+    "60G10": 1,
+    "60G25": 1,
+    "47B10": 1
+  },
+  "orthogonal projection": {
+    "60G10": 1,
+    "60G25": 1,
+    "47B10": 1
+  },
+  "strong closure": {
+    "49J20": 1,
+    "35J50": 1,
+    "49J45": 1
+  },
+  "feasible states": {
+    "49J20": 1,
+    "35J50": 1,
+    "49J45": 1
+  },
+  "elliptic operators": {
+    "49J20": 1,
+    "35J50": 1,
+    "49J45": 1
+  },
+  "systems of elliptic equations": {
+    "49J20": 1,
+    "35J50": 1,
+    "49J45": 1
+  },
+  "delta-related operators": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "factorization theory": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "generalized inverses": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "relations between operator matrices": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "delta relations": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "invertibility symbol": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "generalized inversion": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "singular integral operators with Carleman shift": {
+    "47B35": 1,
+    "47A68": 1,
+    "15A09": 1,
+    "45F15": 1,
+    "47A05": 1,
+    "47G10": 1
+  },
+  "Stokes system": {
+    "35Q30": 1,
+    "35B50": 1,
+    "76D07": 1,
+    "47A30": 1,
+    "15A45": 1
+  },
+  "maximum modulus theorem": {
+    "35Q30": 1,
+    "35B50": 1,
+    "76D07": 1,
+    "47A30": 1,
+    "15A45": 1
+  },
+  "Stokes-Poisson integral formula": {
+    "35Q30": 1,
+    "35B50": 1,
+    "76D07": 1,
+    "47A30": 1,
+    "15A45": 1
+  },
+  "Stokes systems": {
+    "35Q30": 1,
+    "76D07": 1
+  },
+  "weighted function spaces": {
+    "35Q30": 1,
+    "76D07": 1
+  },
+  "local spaces": {
+    "35Q30": 1,
+    "76D07": 1
+  },
+  "solvability properties": {
+    "35Q30": 1,
+    "76D07": 1
+  },
+  "cuspidal domains": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "existence": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1,
+    "35R10": 1,
+    "35K40": 1,
+    "35R15": 1
+  },
+  "Fredholm character": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "unique solvability": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "boundary integral equations": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "Dirichlet problem": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "Neumann problem": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "integral operators": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "continuity": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "range": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "injectivity": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "exterior Dirichlet problem": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "outward peak": {
+    "31A10": 1,
+    "45A05": 1,
+    "35J05": 1
+  },
+  "stability estimates": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "Kontorovich-Lebedev transform": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "Macdonald function": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "regularization": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "inversion formula": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "Lebedev-Skalskaya transform": {
+    "44A15": 1,
+    "65R10": 1,
+    "65R30": 1
+  },
+  "eigenvalues": {
+    "34B15": 1,
+    "34L05": 1,
+    "34L15": 1
+  },
+  "boundary value problems": {
+    "34B15": 1,
+    "34L05": 1,
+    "34L15": 1,
+    "01A60": 1,
+    "35-02": 1
+  },
+  "fractional Brownian motion": {
+    "60H10": 1,
+    "93C35": 1
+  },
+  "discrete time approximation": {
+    "60H10": 1,
+    "93C35": 1
+  },
+  "market area problem": {
+    "90C34": 1,
+    "49N15": 1,
+    "90B10": 1,
+    "90C08": 1
+  },
+  "set partitioning": {
+    "90C34": 1,
+    "49N15": 1,
+    "90B10": 1,
+    "90C08": 1
+  },
+  "transportation problem": {
+    "90C34": 1,
+    "49N15": 1,
+    "90B10": 1,
+    "90C08": 1
+  },
+  "transportation flow problems": {
+    "90C34": 1,
+    "49N15": 1,
+    "90B10": 1,
+    "90C08": 1
+  },
+  "two discontinuity rays": {
+    "35L65": 1,
+    "46F10": 1,
+    "35R05": 1
+  },
+  "non-classical waves": {
+    "35L65": 1,
+    "46F10": 1,
+    "35R05": 1
+  },
+  "Dirac-contact waves": {
+    "35L65": 1,
+    "46F10": 1,
+    "35R05": 1
+  },
+  "classes of linear maps between operator spaces": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "Pisier vector-valued non-commutative (L^p)-spaces": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "Schatten classes": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "(p)-nuclear maps": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "Banach operator ideals": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "category of operator spaces": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "non-commutative (quantized) functional analysis": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "(W^*)-algebras": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "quantum field theory": {
+    "47L20": 1,
+    "46L51": 1,
+    "46L53": 1,
+    "46L54": 1,
+    "47L05": 1,
+    "47L30": 1,
+    "46L35": 1,
+    "46L89": 1
+  },
+  "(n)-categories": {
+    "18D05": 1,
+    "18D50": 1
+  },
+  "opetopes": {
+    "18D05": 1,
+    "18D50": 1
+  },
+  "coherent algebras": {
+    "18D05": 1,
+    "18D50": 1
+  },
+  "slice operad": {
+    "18D05": 1,
+    "18D50": 1
+  },
+  "supersymmetric functions": {
+    "05E05": 1,
+    "05A19": 1
+  },
+  "connection coefficients": {
+    "05E05": 1,
+    "05A19": 1
+  },
+  "isotropic submanifold": {
+    "53D05": 1,
+    "53C40": 1
+  },
+  "integral representation": {
+    "53D05": 1,
+    "53C40": 1
+  },
+  "quasimodes": {
+    "53D05": 1,
+    "53C40": 1
+  },
+  "geometric quantization": {
+    "53D05": 1,
+    "53C40": 1
+  },
+  "symplectic connection": {
+    "53D05": 1,
+    "53C40": 1
+  },
+  "factor space": {
+    "28A60": 1,
+    "28C99": 1
+  },
+  "Lebesgue space": {
+    "28A60": 1,
+    "28C99": 1
+  },
+  "stochastically independent": {
+    "28A60": 1,
+    "28C99": 1
+  },
+  "stochastically commuting": {
+    "28A60": 1,
+    "28C99": 1
+  },
+  "holomorphic dynamics": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "quasiconformal": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "Teichm\u00fcller space": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "rational maps": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "Fatou set": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "Julia set": {
+    "30F60": 1,
+    "37F30": 1,
+    "30C62": 1,
+    "30D05": 1
+  },
+  "Bott periodicity": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "crossed product": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "compact group": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "Grothendieck group": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "complex (G)-vector bundles": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "reduced equivariant (K)-theory": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "(mathbb{Z}/(2))-graded (C^*)-algebra": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "Clifford algebra": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "index theory": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1,
+    "37K99": 1,
+    "37N20": 1,
+    "81Q05": 1
+  },
+  "Novikov conjecture": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "homotopy invariance of higher signatures": {
+    "46L80": 1,
+    "46L55": 1,
+    "19K35": 1
+  },
+  "Schur complex": {
+    "13D25": 1
+  },
+  "Koszul complex": {
+    "13D25": 1
+  },
+  "row convex shape": {
+    "13D25": 1
+  },
+  "spectral theories": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "maximum principle": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "fluid flows": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Poincar\u00e9": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Hilbert programs": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "S. Bernstein": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "elliptic equations": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Leray-Schauder theory": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Hadamard": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Sobolev spaces": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Schwartz theory of distributions": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Hilbert space methods": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Calderon-Zygmund theory": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "Hille-Yosida theory": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "DeGiorgi-Nash estimates": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "gas dynamics": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "nonlinear functional analysis": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "differential geometry": {
+    "01A60": 1,
+    "35-02": 1
+  },
+  "autocovariance operator": {
+    "62M10": 1
+  },
+  "linear stochastic difference equation": {
+    "62M10": 1
+  },
+  "continued fractions": {
+    "62M10": 1
+  },
+  "spherically symmetric distributions": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "elliptically contoured distributions": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "serial covariance": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "moments": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "cones": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "random fields": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "quadratic forms": {
+    "62H05": 1,
+    "62E15": 1,
+    "60G10": 1,
+    "62E10": 1
+  },
+  "semisimple Lie group": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "Abel transform": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "Fourier multipliers": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "zonal spherical functions": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "radial maximal operator": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "heat and Poisson maximal operators": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "Riesz transform": {
+    "22E30": 1,
+    "43A90": 1,
+    "22E46": 1
+  },
+  "operator space": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "completely bounded mapping": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "bimodule": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "relative Yoneda cohomology": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "Hochschild cohomology": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "relative injectivity": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "projectivity": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "amenability": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "derived functor realization": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "Sz.-Nagy-Foias commutant lifting theorem": {
+    "46L05": 1,
+    "46M20": 1,
+    "47L10": 1,
+    "46H25": 1,
+    "18E25": 1
+  },
+  "M\u00fcntz-Szasz theorem": {
+    "22E30": 1,
+    "43A80": 1,
+    "22E25": 1
+  },
+  "Fourier transform": {
+    "22E30": 1,
+    "43A80": 1,
+    "22E25": 1
+  },
+  "nilpotent Lie groups": {
+    "22E30": 1,
+    "43A80": 1,
+    "22E25": 1
+  },
+  "unitary representations": {
+    "22E30": 1,
+    "43A80": 1,
+    "22E25": 1
+  },
+  "orbit method": {
+    "22E30": 1,
+    "43A80": 1,
+    "22E25": 1
+  },
+  "Toeplitz family": {
+    "37K99": 1,
+    "37N20": 1,
+    "81Q05": 1
+  },
+  "(K)-group": {
+    "37K99": 1,
+    "37N20": 1,
+    "81Q05": 1
+  },
+  "spectral flow": {
+    "37K99": 1,
+    "37N20": 1,
+    "81Q05": 1
+  },
+  "fractional integrals": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "Radon transforms": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "spherical convolutions": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "Beltrami-Laplace operator": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "analytical continuation": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "spherical Fourier multiplier": {
+    "42B15": 1,
+    "44A12": 1,
+    "26A33": 1
+  },
+  "principal bimodules": {
+    "47L30": 1,
+    "46H25": 1,
+    "46L10": 1
+  },
+  "nest algebras": {
+    "47L30": 1,
+    "46H25": 1,
+    "46L10": 1
+  },
+  "closed countably generated bimodules": {
+    "47L30": 1,
+    "46H25": 1,
+    "46L10": 1
+  },
+  "nest elements": {
+    "47L30": 1,
+    "46H25": 1,
+    "46L10": 1
+  },
+  "spherical multilinear convolution": {
+    "42A85": 1,
+    "42B15": 1
+  },
+  "CSL algebra": {
+    "47L35": 1,
+    "47L30": 1
+  },
+  "CSM space": {
+    "47L35": 1,
+    "47L30": 1
+  },
+  "masa": {
+    "47L35": 1,
+    "47L30": 1
+  },
+  "maximal abelian selfadjoint algebras": {
+    "47L35": 1,
+    "47L30": 1
+  },
+  "inner function": {
+    "30D55": 1
+  },
+  "invariant subspace": {
+    "30D55": 1
+  },
+  "Carleson measure": {
+    "30D55": 1
+  },
+  "embedding theorem": {
+    "30D55": 1
+  },
+  "Hardy spaces": {
+    "30D55": 1
+  },
+  "log-Sobolev inequality": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "loop space": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "Riemannian manifold": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "heat kernel": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "martingale representation theorem": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "Clark-Ocone-Haussman formula": {
+    "22E67": 1,
+    "58J65": 1
+  },
+  "Volterra operators": {
+    "34C20": 1,
+    "34A25": 1
+  },
+  "retarded differential equations": {
+    "34C20": 1,
+    "34A25": 1
+  },
+  "hereditary structures": {
+    "34C20": 1,
+    "34A25": 1
+  },
+  "homeomorphism": {
+    "34C20": 1,
+    "34A25": 1
+  },
+  "convolution equation": {
+    "45N05": 1,
+    "45F15": 1,
+    "45M05": 1,
+    "42A75": 1
+  },
+  "neutral system": {
+    "45N05": 1,
+    "45F15": 1,
+    "45M05": 1,
+    "42A75": 1
+  },
+  "bounded solution": {
+    "45N05": 1,
+    "45F15": 1,
+    "45M05": 1,
+    "42A75": 1
+  },
+  "almost periodic function": {
+    "45N05": 1,
+    "45F15": 1,
+    "45M05": 1,
+    "42A75": 1
+  },
+  "Banach space": {
+    "45N05": 1,
+    "45F15": 1,
+    "45M05": 1,
+    "42A75": 1
+  },
+  "Lotka-Volterra equations": {
+    "34D45": 1,
+    "92D25": 1,
+    "34C25": 1,
+    "34D20": 1
+  },
+  "global attractor": {
+    "34D45": 1,
+    "92D25": 1,
+    "34C25": 1,
+    "34D20": 1,
+    "35L75": 1,
+    "35B40": 1,
+    "35L35": 1
+  },
+  "Arnold-Liouville": {
+    "34D45": 1,
+    "92D25": 1,
+    "34C25": 1,
+    "34D20": 1
+  },
+  "hyperbolicity": {
+    "34D45": 1,
+    "92D25": 1,
+    "34C25": 1,
+    "34D20": 1
+  },
+  "periodic orbits": {
+    "34D45": 1,
+    "92D25": 1,
+    "34C25": 1,
+    "34D20": 1
+  },
+  "unimodular groups": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "upper triangular matrices": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "irreducible complex characters": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "regular character": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Hopf Galois theory": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "faithfully flat right Galois extensions": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "left comodule algebras": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "left Galois extensions": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "bicomodules": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "bigalois extensions": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "Galois connections": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "bijective antipodes": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "quotient coalgebras": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "lattices of Hopf subalgebras": {
+    "16W30": 1,
+    "06A15": 1,
+    "12F10": 1
+  },
+  "(p)-nilpotence": {
+    "20D20": 1,
+    "20D15": 1,
+    "20D60": 1
+  },
+  "numbers of Sylow subgroups": {
+    "20D20": 1,
+    "20D15": 1,
+    "20D60": 1
+  },
+  "finite groups": {
+    "20D20": 1,
+    "20D15": 1,
+    "20D60": 1
+  },
+  "Sylow theorems": {
+    "20D20": 1,
+    "20D15": 1,
+    "20D60": 1
+  },
+  "normal (p)-complements": {
+    "20D20": 1,
+    "20D15": 1,
+    "20D60": 1
+  },
+  "matrix problems": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "bipartite posets": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "prinjective modules": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "Tits quadratic forms": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "preprojective components": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "finite partially ordered sets": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "incidence algebras": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "indecomposable prinjective modules": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "critical bipartite posets": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "Auslander-Reiten quivers": {
+    "16G20": 1,
+    "16G60": 1,
+    "16G70": 1,
+    "06A06": 1
+  },
+  "Virasoro algebra": {
+    "17B69": 1
+  },
+  "representations": {
+    "17B69": 1
+  },
+  "code vertex operator algebra": {
+    "17B69": 1
+  },
+  "simple vertex operator algebras": {
+    "17B69": 1
+  },
+  "rational conformal vectors": {
+    "17B69": 1
+  },
+  "Virasoro element": {
+    "17B69": 1
+  },
+  "elementary abelian automorphism 2-group": {
+    "17B69": 1
+  },
+  "irreducible modules": {
+    "17B69": 1
+  },
+  "fusion rules": {
+    "17B69": 1
+  },
+  "linearly topologized rings": {
+    "16W80": 1,
+    "16D90": 1
+  },
+  "category equivalences": {
+    "16W80": 1,
+    "16D90": 1
+  },
+  "categories of topologized modules": {
+    "16W80": 1,
+    "16D90": 1
+  },
+  "lower central series": {
+    "20F14": 1,
+    "08A30": 1
+  },
+  "derivations": {
+    "20F14": 1,
+    "08A30": 1
+  },
+  "superadditive sequences": {
+    "20F14": 1,
+    "08A30": 1
+  },
+  "polynomial sequences": {
+    "20F14": 1,
+    "08A30": 1
+  },
+  "reductive groups": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "finite fields": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "character sheaves": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Mackey formula": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "induced representations": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Harish-Chandra induction": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Lusztig induction": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Frobenius morphisms": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "Grothendieck groups": {
+    "20G05": 1,
+    "20G40": 1
+  },
+  "solvability of the embedding problem": {
+    "12F12": 1
+  },
+  "obstruction": {
+    "12F12": 1
+  },
+  "confluence": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "polynomial algebras": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "quadratic algebras": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "Koszul complexes": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "Diamond Lemma": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "tensor algebras": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "reduction operators": {
+    "16S36": 1,
+    "15A72": 1,
+    "15A69": 1,
+    "15A78": 1,
+    "16W50": 1
+  },
+  "tame extensions": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "class groups": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "Hopf orders": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "realizable classes": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "Galois module structure": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "cocommutative separable Hopf algebras": {
+    "16H05": 1,
+    "11R33": 1,
+    "16W30": 1,
+    "11R29": 1
+  },
+  "generalized free products": {
+    "20E06": 1,
+    "20E26": 1,
+    "20F18": 1
+  },
+  "finitely generated torsion-free nilpotent groups": {
+    "20E06": 1,
+    "20E26": 1,
+    "20F18": 1
+  },
+  "residually finite (p)-groups": {
+    "20E06": 1,
+    "20E26": 1,
+    "20F18": 1
+  },
+  "tree products": {
+    "20E06": 1,
+    "20E26": 1,
+    "20F18": 1
+  },
+  "essential covers": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "generalized polynomial identities": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "lattices of radicals": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "complemented radicals": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "special radicals": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "matrix rings over finite fields": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "semisimple classes": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "subdirect products": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "direct sums of simple rings": {
+    "16N80": 1,
+    "16N60": 1
+  },
+  "Kac-Moody algebras": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "Lie superalgebras": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "Borel algebra": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "generalized root decomposition": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "representations of Lie superalgebras": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "weak Kac-Moody superalgebras": {
+    "17B67": 1,
+    "17B10": 1,
+    "17A70": 1,
+    "17B20": 1
+  },
+  "Lie group": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "symplectic reduction": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "plurisubharmonic": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "moment map": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "complex reductive Lie group": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "Stein manifold": {
+    "22E10": 1,
+    "32M05": 1,
+    "37J99": 1
+  },
+  "monotone difference scheme": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "anisotropic drift-diffusion equation": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "rotated upwind discretization": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "algorithm": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "oscillation-free solution": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "iterative methods": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "numerical examples": {
+    "65N06": 1,
+    "65F10": 1,
+    "65N12": 1,
+    "35J25": 1
+  },
+  "static equilibria of nonneutral plasma column": {
+    "76M25": 1,
+    "76X05": 1
+  },
+  "stream function": {
+    "76M25": 1,
+    "76X05": 1
+  },
+  "Laplaces equation": {
+    "76M25": 1,
+    "76X05": 1
+  },
+  "boundary potential": {
+    "76M25": 1,
+    "76X05": 1
+  },
+  "molecular distance": {
+    "92C40": 1,
+    "92D15": 1,
+    "62P10": 1
+  },
+  "unequal rates": {
+    "92C40": 1,
+    "92D15": 1,
+    "62P10": 1
+  },
+  "gamma distribution": {
+    "92C40": 1,
+    "92D15": 1,
+    "62P10": 1
+  },
+  "synonymous sites": {
+    "92C40": 1,
+    "92D15": 1,
+    "62P10": 1
+  },
+  "base frequencies": {
+    "92C40": 1,
+    "92D15": 1,
+    "62P10": 1
+  },
+  "B-splines": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "mesh embedding": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "Galerkin methods": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "Poisson equation": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "collocation": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "advection equation": {
+    "65N50": 1,
+    "65N30": 1,
+    "35J05": 1,
+    "65D07": 1,
+    "65N35": 1
+  },
+  "Laplace transform": {
+    "76M10": 1,
+    "76S05": 1,
+    "76R99": 1,
+    "80A20": 1
+  },
+  "convection-diffusion equation": {
+    "76M10": 1,
+    "76S05": 1,
+    "76R99": 1,
+    "80A20": 1
+  },
+  "first-order kinetics": {
+    "76M10": 1,
+    "76S05": 1,
+    "76R99": 1,
+    "80A20": 1
+  },
+  "integro-differential approach": {
+    "76M10": 1,
+    "76S05": 1,
+    "76R99": 1,
+    "80A20": 1
+  },
+  "preconditioned projection": {
+    "76M10": 1,
+    "76S05": 1,
+    "76R99": 1,
+    "80A20": 1
+  },
+  "acoustic oscillations flattening": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "Bunsen flame": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "viscous terms": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "cell interfaces": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "Rankine-Hugoniot conditions": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "linearized Riemann solver": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "steady premixed laminar flames": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "steady two-dimensional channel flow with injection": {
+    "76M20": 1,
+    "76L05": 1,
+    "76N15": 1,
+    "76V05": 1
+  },
+  "direct numerical simulation": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "fully developed turbulent channel flow": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "low-order finite difference method": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "Taylor expansion": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "Coriolis force": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "effective angular velocity": {
+    "76M20": 1,
+    "76D05": 1,
+    "76F10": 1,
+    "76U05": 1,
+    "65M15": 1
+  },
+  "Lagrangian large eddy simulation": {
+    "76M23": 1,
+    "76F05": 1,
+    "76D05": 1
+  },
+  "filtered vorticity transport equation": {
+    "76M23": 1,
+    "76F05": 1,
+    "76D05": 1
+  },
+  "subfilter scale velocity": {
+    "76M23": 1,
+    "76F05": 1,
+    "76D05": 1
+  },
+  "vorticity fluctuations": {
+    "76M23": 1,
+    "76F05": 1,
+    "76D05": 1
+  },
+  "dynamic eddy diffusivity model": {
+    "76M23": 1,
+    "76F05": 1,
+    "76D05": 1
+  },
+  "spectral collocation method": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "triangular element": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "auxiliary mapping": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "preconditioning": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "domain decomposition": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "Chebyshev collocation method": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "singular solutions": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "finite difference": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "iterative solver": {
+    "65N35": 1,
+    "65F10": 1,
+    "65F35": 1,
+    "35J05": 1,
+    "65N55": 1
+  },
+  "regularity": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "drift-diffusion equations": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "Maxwell equations": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "charge-transport": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "semiconductors": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "Sobolev-embedding theorems": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "fractional order Sobolev spaces": {
+    "78A25": 1,
+    "35Q60": 1,
+    "82D55": 1
+  },
+  "H\u00f6lder linearization": {
+    "37C15": 1,
+    "37C20": 1
+  },
+  "Hartman and Grobman theorem": {
+    "37C15": 1,
+    "37C20": 1
+  },
+  "neutral partial functional differential equations": {
+    "35R10": 1,
+    "35K40": 1,
+    "35R15": 1
+  },
+  "nondense domain": {
+    "35R10": 1,
+    "35K40": 1,
+    "35R15": 1
+  },
+  "uniqueness": {
+    "35R10": 1,
+    "35K40": 1,
+    "35R15": 1
+  },
+  "water wave problem": {
+    "35Q53": 1,
+    "35Q55": 1,
+    "76B15": 1
+  },
+  "KdV equation": {
+    "35Q53": 1,
+    "35Q55": 1,
+    "76B15": 1
+  },
+  "NLS equation": {
+    "35Q53": 1,
+    "35Q55": 1,
+    "76B15": 1
+  },
+  "approximation": {
+    "35Q53": 1,
+    "35Q55": 1,
+    "76B15": 1
+  },
+  "estimates on the Hausdorff dimension": {
+    "35K25": 1,
+    "35B05": 1
+  },
+  "local scaling limits": {
+    "35K25": 1,
+    "35B05": 1
+  },
+  "zero points of solutions": {
+    "35K25": 1,
+    "35B05": 1
+  },
+  "sublinear elliptic boundary value problem": {
+    "35P30": 1,
+    "35J20": 1,
+    "35J60": 1,
+    "35B32": 1
+  },
+  "holomorphic perturbations of the boundary": {
+    "35P30": 1,
+    "35J20": 1,
+    "35J60": 1,
+    "35B32": 1
+  },
+  "theory of stochastic differentiation": {
+    "76S05": 1,
+    "76M50": 1,
+    "76M35": 1,
+    "76D07": 1
+  },
+  "two-scale convergence": {
+    "76S05": 1,
+    "76M50": 1,
+    "76M35": 1,
+    "76D07": 1
+  },
+  "Darcy-type law": {
+    "76S05": 1,
+    "76M50": 1,
+    "76M35": 1,
+    "76D07": 1
+  },
+  "two-pressure Stokes system": {
+    "76S05": 1,
+    "76M50": 1,
+    "76M35": 1,
+    "76D07": 1
+  },
+  "polynomial decay": {
+    "35K40": 1,
+    "35B40": 1,
+    "35B35": 1,
+    "35K55": 1
+  },
+  "travelling waves": {
+    "35K40": 1,
+    "35B40": 1,
+    "35B35": 1,
+    "35K55": 1
+  },
+  "critical front speed": {
+    "35K40": 1,
+    "35B40": 1,
+    "35B35": 1,
+    "35K55": 1
+  },
+  "differential inclusions on Hilbert spaces": {
+    "34G20": 1,
+    "34A60": 1,
+    "47E05": 1,
+    "47H05": 1
+  },
+  "strong solution": {
+    "34G20": 1,
+    "34A60": 1,
+    "47E05": 1,
+    "47H05": 1
+  },
+  "maximal monotone operator": {
+    "34G20": 1,
+    "34A60": 1,
+    "47E05": 1,
+    "47H05": 1
+  },
+  "parabolic feedback control system": {
+    "34G20": 1,
+    "34A60": 1,
+    "47E05": 1,
+    "47H05": 1
+  },
+  "reducibility": {
+    "35L60": 1,
+    "35L80": 1
+  },
+  "scalar Monge-Amp\u00e8re type equation of the third-order": {
+    "35L60": 1,
+    "35L80": 1
+  },
+  "multiple characteristics": {
+    "35L60": 1,
+    "35L80": 1
+  },
+  "invariant curves": {
+    "37B10": 1,
+    "37F20": 1
+  },
+  "symbolic dynamics": {
+    "37B10": 1,
+    "37F20": 1
+  },
+  "variation absolute continuity": {
+    "26B30": 1,
+    "26A39": 1
+  },
+  "generalized Riemann integral": {
+    "26B30": 1,
+    "26A39": 1
+  },
+  "Lebesgue integral": {
+    "26B30": 1,
+    "26A39": 1
+  },
+  "charges": {
+    "26B30": 1,
+    "26A39": 1
+  },
+  "linear difference equation": {
+    "39A10": 1
+  },
+  "explicit solution": {
+    "39A10": 1
+  },
+  "companion matrices": {
+    "39A10": 1
+  }
+}

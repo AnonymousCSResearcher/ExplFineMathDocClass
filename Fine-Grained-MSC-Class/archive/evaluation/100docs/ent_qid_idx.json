@@ -1,0 +1,2099 @@
+{
+  "42C10,": {
+    "laguerre polynomial": "N/A",
+    "linear mean": "N/A",
+    "lebesgue constant": "Q6511314",
+    "weighted lebesgue space": "N/A"
+  },
+  "33C45,": {
+    "laguerre polynomial": "N/A",
+    "linear mean": "N/A",
+    "lebesgue constant": "Q6511314",
+    "weighted lebesgue space": "N/A"
+  },
+  "42A45,": {
+    "laguerre polynomial": "N/A",
+    "linear mean": "N/A",
+    "lebesgue constant": "Q6511314",
+    "weighted lebesgue space": "N/A"
+  },
+  "39A70": {
+    "laguerre polynomial": "N/A",
+    "linear mean": "N/A",
+    "lebesgue constant": "Q6511314",
+    "weighted lebesgue space": "N/A"
+  },
+  "34B15,": {
+    "positive solution": "N/A",
+    "singular nonlinearities": "N/A",
+    "degree theory": "N/A",
+    "periodic boundary value problem": "N/A",
+    "sturmliouville problem": "N/A",
+    "eigenvalue": "N/A",
+    "boundary value problem": "Q1332643"
+  },
+  "34C25,": {
+    "singular nonlinearities": "N/A",
+    "degree theory": "N/A",
+    "positive solution": "N/A",
+    "periodic boundary value problem": "N/A",
+    "sturmliouville problem": "N/A",
+    "lotkavolterra equation": "N/A",
+    "global attractor": "N/A",
+    "arnoldliouville": "N/A",
+    "hyperbolicity": "N/A",
+    "periodic orbit": "N/A"
+  },
+  "34B24": {
+    "singular nonlinearities": "N/A",
+    "degree theory": "N/A",
+    "positive solution": "N/A",
+    "periodic boundary value problem": "N/A",
+    "sturmliouville problem": "N/A"
+  },
+  "94C10,": {
+    "algorithmic information theory": "Q1757543",
+    "lower bound": "N/A",
+    "multiparty communication complexity": "Q6934835",
+    "boolean function": "Q942353"
+  },
+  "68Q30": {
+    "algorithmic information theory": "Q1757543",
+    "lower bound": "N/A",
+    "multiparty communication complexity": "Q6934835",
+    "boolean function": "Q942353"
+  },
+  "68M10": {
+    "counting protocol": "N/A"
+  },
+  "01A45,": {
+    "newton": "Q568182",
+    "gravitation": "N/A",
+    "potential": "Q1202245",
+    "homogeneous sphere": "N/A",
+    "`` archimedes computation volume ''": "N/A",
+    "potential theory": "Q1154848"
+  },
+  "70-03,": {
+    "newton": "Q568182",
+    "gravitation": "N/A",
+    "potential": "Q1202245",
+    "homogeneous sphere": "N/A",
+    "`` archimedes computation volume ''": "N/A",
+    "potential theory": "Q1154848"
+  },
+  "31-03": {
+    "newton": "Q568182",
+    "gravitation": "N/A",
+    "potential": "Q1202245",
+    "homogeneous sphere": "N/A",
+    "`` archimedes computation volume ''": "N/A",
+    "potential theory": "Q1154848"
+  },
+  "16-03,": {
+    "hypercomplex system": "N/A",
+    "division algebra": "Q1231309",
+    "algebraic number theory": "Q613048",
+    "algebraic geometry": "Q180969"
+  },
+  "01A55,": {
+    "hypercomplex system": "N/A",
+    "division algebra": "Q1231309",
+    "algebraic number theory": "Q613048",
+    "algebraic geometry": "Q180969",
+    "riemann": "N/A",
+    "complex function": "N/A"
+  },
+  "01A60": {
+    "hypercomplex system": "N/A",
+    "division algebra": "Q1231309",
+    "algebraic number theory": "Q613048",
+    "algebraic geometry": "Q180969",
+    "riemann": "N/A",
+    "complex function": "N/A"
+  },
+  "93B60,": {
+    "eigenvalue linear control system": "N/A",
+    "schwartz form": "N/A",
+    "root locus technique": "N/A"
+  },
+  "65F15": {
+    "eigenvalue linear control system": "N/A",
+    "schwartz form": "N/A",
+    "root locus technique": "N/A"
+  },
+  "11R09,": {
+    "polynomial": "Q43260",
+    "height": "Q208826",
+    "elliptic mahler measure": "N/A",
+    "`` lehmers problem ''": "N/A",
+    "entropy": "Q45003",
+    "lfunctions": "N/A",
+    "elliptic curve": "Q268493"
+  },
+  "11G05": {
+    "polynomial": "Q43260",
+    "height": "Q208826",
+    "elliptic mahler measure": "N/A",
+    "`` lehmers problem ''": "N/A",
+    "entropy": "Q45003",
+    "lfunctions": "N/A",
+    "elliptic curve": "Q268493"
+  },
+  "30-03,": {
+    "riemann": "N/A",
+    "complex function": "N/A"
+  },
+  "01A40,": {
+    "liberal art": "N/A",
+    "mathematical education": "N/A",
+    "classification mathematics": "N/A"
+  },
+  "01A35,": {
+    "liberal art": "N/A",
+    "mathematical education": "N/A",
+    "classification mathematics": "N/A"
+  },
+  "01A99": {
+    "liberal art": "N/A",
+    "mathematical education": "N/A",
+    "classification mathematics": "N/A"
+  },
+  "01A80": {
+    "prague": "Q1085",
+    "kepler": "N/A",
+    "galileo": "N/A",
+    "tycho brahe": "N/A",
+    "solomon delmedigo": "N/A",
+    "david gans": "N/A",
+    "astronomy": "Q333",
+    "mathematics": "Q395"
+  },
+  "01A60,": {
+    "hilbert": "N/A",
+    "kinetic theory": "Q25100325",
+    "radiation theory": "N/A",
+    "spectral theory": "Q2409122",
+    "maximum principle": "Q1914255",
+    "fluid flow": "N/A",
+    "poincar\u00e9": "Q21448108",
+    "hilbert program": "N/A",
+    "bernstein": "Q21660706",
+    "elliptic equation": "Q107440094",
+    "lerayschauder theory": "N/A",
+    "hadamard": "N/A",
+    "boundary value problem": "Q1332643",
+    "sobolev space": "Q1501536",
+    "schwartz theory distribution": "N/A",
+    "hilbert space method": "N/A",
+    "calderonzygmund theory": "N/A",
+    "hilleyosida theory": "N/A",
+    "degiorginash estimate": "N/A",
+    "gas dynamic": "N/A",
+    "nonlinear functional analysis": "Q7049475",
+    "differential geometry": "Q188444"
+  },
+  "01A73": {
+    "hilbert": "N/A",
+    "kinetic theory": "Q25100325",
+    "radiation theory": "N/A"
+  },
+  "11H55,": {
+    "quadratic form": "Q736753",
+    "positive definite ternary form": "N/A",
+    "reduction": "Q225229"
+  },
+  "11H50": {
+    "quadratic form": "Q736753",
+    "positive definite ternary form": "N/A",
+    "reduction": "Q225229"
+  },
+  "11K41,": {
+    "asymptotic distribution": "Q12345341",
+    "aadic integer": "N/A",
+    "uniformly distributed sequence modulo 1": "N/A"
+  },
+  "11J71": {
+    "asymptotic distribution": "Q12345341",
+    "aadic integer": "N/A",
+    "uniformly distributed sequence modulo 1": "N/A"
+  },
+  "11M35": {
+    "approximate functional equation": "N/A",
+    "remainder": "Q846677"
+  },
+  "11N37,": {
+    "multiplicative function": "Q1048447",
+    "arithmetic progression": "Q170008",
+    "bruntitchmarsh theorem": "N/A"
+  },
+  "11N13": {
+    "multiplicative function": "Q1048447",
+    "arithmetic progression": "Q170008",
+    "bruntitchmarsh theorem": "N/A"
+  },
+  "35H10,": {
+    "maximum principle": "Q1914255"
+  },
+  "35J70,": {
+    "maximum principle": "Q1914255"
+  },
+  "35A05,": {
+    "maximum principle": "Q1914255"
+  },
+  "35J25": {
+    "maximum principle": "Q1914255",
+    "monotone difference scheme": "N/A",
+    "anisotropic driftdiffusion equation": "N/A",
+    "rotated upwind discretization": "N/A",
+    "algorithm": "Q8366",
+    "oscillationfree solution": "N/A",
+    "iterative method": "Q2321565",
+    "numerical example": "N/A"
+  },
+  "76M10,": {
+    "software package homesh": "N/A",
+    "hybrid triangular linear element": "N/A",
+    "hybrid 6 quadrilateral quadratic element": "N/A",
+    "automatic generation highorder finite element": "N/A",
+    "twodimensional hyperbolic grid generator": "N/A",
+    "quadrilateral quadratic element": "N/A",
+    "geodesic curve": "N/A",
+    "distortion measure": "N/A",
+    "inverse mapping": "N/A",
+    "isoparametric quadrilateral hybrid stress four eightnode element": "N/A",
+    "geometrically exact beam finite strain formulation": "N/A",
+    "abstract infinitedimensional manifold mapping": "N/A",
+    "configuration space": "Q41642869",
+    "linearization algorithm": "N/A",
+    "hybrid stress membrane element curved boundary": "N/A",
+    "eightnode isoparametric element": "N/A",
+    "geodesic coordinate": "N/A",
+    "generalized taylor series method": "N/A",
+    "characteristic euler flux resolution": "N/A",
+    "subgrid embedded highdegree lagrange base static condensation": "N/A",
+    "assembledstencil fourier analysis optimization": "N/A",
+    "steady convectiondiffusion": "N/A",
+    "unsteady convection": "N/A",
+    "monotone method": "N/A",
+    "laplace transform": "Q199691",
+    "convectiondiffusion equation": "N/A",
+    "firstorder kinetics": "N/A",
+    "integrodifferential approach": "N/A",
+    "preconditioned projection": "N/A"
+  },
+  "74S05,": {
+    "software package homesh": "N/A",
+    "hybrid triangular linear element": "N/A",
+    "hybrid 6 quadrilateral quadratic element": "N/A",
+    "automatic generation highorder finite element": "N/A",
+    "twodimensional hyperbolic grid generator": "N/A",
+    "quadrilateral quadratic element": "N/A",
+    "geodesic curve": "N/A",
+    "distortion measure": "N/A",
+    "inverse mapping": "N/A",
+    "isoparametric quadrilateral hybrid stress four eightnode element": "N/A",
+    "geometrically exact beam finite strain formulation": "N/A",
+    "abstract infinitedimensional manifold mapping": "N/A",
+    "configuration space": "Q41642869",
+    "linearization algorithm": "N/A",
+    "hybrid stress membrane element curved boundary": "N/A",
+    "eightnode isoparametric element": "N/A",
+    "geodesic coordinate": "N/A",
+    "shape memory material": "N/A",
+    "micromechanical model": "N/A",
+    "pragertype criterion": "N/A",
+    "belleville washer electrical contract": "N/A",
+    "medical instrument noninvasive surgery": "N/A",
+    "error indicator": "N/A",
+    "error estimator": "N/A",
+    "contact area": "Q5164821",
+    "automatic mesh refinement": "N/A"
+  },
+  "65N50,": {
+    "software package homesh": "N/A",
+    "hybrid triangular linear element": "N/A",
+    "hybrid 6 quadrilateral quadratic element": "N/A",
+    "automatic generation highorder finite element": "N/A",
+    "twodimensional hyperbolic grid generator": "N/A",
+    "quadrilateral quadratic element": "N/A",
+    "bsplines": "N/A",
+    "mesh embedding": "N/A",
+    "galerkin method": "Q1491980",
+    "poisson equation": "N/A",
+    "collocation": "Q1122269",
+    "advection equation": "N/A"
+  },
+  "65M50": {
+    "software package homesh": "N/A",
+    "hybrid triangular linear element": "N/A",
+    "hybrid 6 quadrilateral quadratic element": "N/A",
+    "automatic generation highorder finite element": "N/A",
+    "twodimensional hyperbolic grid generator": "N/A",
+    "quadrilateral quadratic element": "N/A"
+  },
+  "53A99": {
+    "geodesic curve": "N/A",
+    "distortion measure": "N/A",
+    "inverse mapping": "N/A",
+    "isoparametric quadrilateral hybrid stress four eightnode element": "N/A",
+    "geometrically exact beam finite strain formulation": "N/A",
+    "abstract infinitedimensional manifold mapping": "N/A",
+    "configuration space": "Q41642869",
+    "linearization algorithm": "N/A",
+    "hybrid stress membrane element curved boundary": "N/A",
+    "eightnode isoparametric element": "N/A",
+    "geodesic coordinate": "N/A"
+  },
+  "74S15,": {
+    "galerkin boundary element method": "N/A",
+    "linearly elastic isotropic threedimensional solid": "N/A",
+    "displacement integral equation": "N/A",
+    "traction integral equation": "N/A",
+    "cracktip element": "N/A"
+  },
+  "74R99": {
+    "galerkin boundary element method": "N/A",
+    "linearly elastic isotropic threedimensional solid": "N/A",
+    "displacement integral equation": "N/A",
+    "traction integral equation": "N/A",
+    "cracktip element": "N/A"
+  },
+  "74R99,": {
+    "porous viscoplastic solid": "N/A",
+    "finite strain": "N/A",
+    "material strain": "N/A",
+    "strainrate hardening": "N/A",
+    "thermal softening": "N/A",
+    "adiabatic heating": "N/A",
+    "critical void volume fraction criterion": "N/A",
+    "finite element semidiscretization": "N/A",
+    "explicit central difference scheme": "N/A",
+    "direct differentiation approach": "N/A",
+    "automatic differentiation software": "N/A",
+    "impact loading": "N/A"
+  },
+  "74K10,": {
+    "porous viscoplastic solid": "N/A",
+    "finite strain": "N/A",
+    "material strain": "N/A",
+    "strainrate hardening": "N/A",
+    "thermal softening": "N/A",
+    "adiabatic heating": "N/A",
+    "critical void volume fraction criterion": "N/A",
+    "finite element semidiscretization": "N/A",
+    "explicit central difference scheme": "N/A",
+    "direct differentiation approach": "N/A",
+    "automatic differentiation software": "N/A",
+    "impact loading": "N/A"
+  },
+  "74S20,": {
+    "porous viscoplastic solid": "N/A",
+    "finite strain": "N/A",
+    "material strain": "N/A",
+    "strainrate hardening": "N/A",
+    "thermal softening": "N/A",
+    "adiabatic heating": "N/A",
+    "critical void volume fraction criterion": "N/A",
+    "finite element semidiscretization": "N/A",
+    "explicit central difference scheme": "N/A",
+    "direct differentiation approach": "N/A",
+    "automatic differentiation software": "N/A",
+    "impact loading": "N/A"
+  },
+  "74C10": {
+    "porous viscoplastic solid": "N/A",
+    "finite strain": "N/A",
+    "material strain": "N/A",
+    "strainrate hardening": "N/A",
+    "thermal softening": "N/A",
+    "adiabatic heating": "N/A",
+    "critical void volume fraction criterion": "N/A",
+    "finite element semidiscretization": "N/A",
+    "explicit central difference scheme": "N/A",
+    "direct differentiation approach": "N/A",
+    "automatic differentiation software": "N/A",
+    "impact loading": "N/A"
+  },
+  "74L15,": {
+    "regularity result": "N/A",
+    "cowinhegedus model": "N/A",
+    "fixed point argument": "N/A"
+  },
+  "92C10,": {
+    "regularity result": "N/A",
+    "cowinhegedus model": "N/A",
+    "fixed point argument": "N/A"
+  },
+  "35Q72": {
+    "regularity result": "N/A",
+    "cowinhegedus model": "N/A",
+    "fixed point argument": "N/A"
+  },
+  "74A20,": {
+    "shape memory material": "N/A",
+    "micromechanical model": "N/A",
+    "pragertype criterion": "N/A",
+    "belleville washer electrical contract": "N/A",
+    "medical instrument noninvasive surgery": "N/A"
+  },
+  "74A15": {
+    "shape memory material": "N/A",
+    "micromechanical model": "N/A",
+    "pragertype criterion": "N/A",
+    "belleville washer electrical contract": "N/A",
+    "medical instrument noninvasive surgery": "N/A"
+  },
+  "74A55,": {
+    "error indicator": "N/A",
+    "error estimator": "N/A",
+    "contact area": "Q5164821",
+    "automatic mesh refinement": "N/A"
+  },
+  "74M15,": {
+    "error indicator": "N/A",
+    "error estimator": "N/A",
+    "contact area": "Q5164821",
+    "automatic mesh refinement": "N/A"
+  },
+  "74B20": {
+    "error indicator": "N/A",
+    "error estimator": "N/A",
+    "contact area": "Q5164821",
+    "automatic mesh refinement": "N/A"
+  },
+  "76R99": {
+    "generalized taylor series method": "N/A",
+    "characteristic euler flux resolution": "N/A",
+    "subgrid embedded highdegree lagrange base static condensation": "N/A",
+    "assembledstencil fourier analysis optimization": "N/A",
+    "steady convectiondiffusion": "N/A",
+    "unsteady convection": "N/A",
+    "monotone method": "N/A"
+  },
+  "76M25,": {
+    "adjustable scheme": "N/A",
+    "six implicitness parameter": "N/A",
+    "static equilibrium nonneutral plasma column": "N/A",
+    "stream function": "Q2029236",
+    "`` laplace equation ''": "N/A",
+    "boundary potential": "N/A"
+  },
+  "76N10,": {
+    "adjustable scheme": "N/A",
+    "six implicitness parameter": "N/A"
+  },
+  "76V05,": {
+    "adjustable scheme": "N/A",
+    "six implicitness parameter": "N/A"
+  },
+  "76L05,": {
+    "adjustable scheme": "N/A",
+    "six implicitness parameter": "N/A",
+    "acoustic oscillation flattening": "N/A",
+    "bunsen flame": "N/A",
+    "viscous term": "N/A",
+    "cell interface": "N/A",
+    "rankinehugoniot condition": "N/A",
+    "linearized riemann solver": "N/A",
+    "steady premixed laminar flame": "N/A",
+    "steady twodimensional channel flow injection": "N/A"
+  },
+  "76D05": {
+    "adjustable scheme": "N/A",
+    "six implicitness parameter": "N/A",
+    "lagrangian large eddy simulation": "N/A",
+    "filtered vorticity transport equation": "N/A",
+    "subfilter scale velocity": "N/A",
+    "vorticity fluctuation": "N/A",
+    "dynamic eddy diffusivity model": "N/A"
+  },
+  "35Q40,": {
+    "dirac operator": "Q907439",
+    "biquaternions": "N/A",
+    "electromagnetic potential": "N/A",
+    "quaternionic representation": "Q7269569",
+    "decomposition": "Q339062",
+    "eikonal equation": "Q1303846"
+  },
+  "81Q05": {
+    "dirac operator": "Q907439",
+    "biquaternions": "N/A",
+    "electromagnetic potential": "N/A",
+    "quaternionic representation": "Q7269569",
+    "decomposition": "Q339062",
+    "eikonal equation": "Q1303846",
+    "toeplitz family": "N/A",
+    "index theory": "N/A",
+    "kgroup": "N/A",
+    "spectral flow": "N/A"
+  },
+  "60G10,": {
+    "hilbertschmidt operatorvalued stationary process": "N/A",
+    "subordination": "Q1319775",
+    "spectral measure": "N/A",
+    "orthogonal projection": "N/A",
+    "spherically symmetric distribution": "N/A",
+    "elliptically contoured distribution": "N/A",
+    "serial covariance": "N/A",
+    "moment": "Q1451745",
+    "cone": "Q42344",
+    "random field": "Q5361768",
+    "quadratic form": "Q736753"
+  },
+  "60G25,": {
+    "hilbertschmidt operatorvalued stationary process": "N/A",
+    "subordination": "Q1319775",
+    "spectral measure": "N/A",
+    "orthogonal projection": "N/A"
+  },
+  "47B10": {
+    "hilbertschmidt operatorvalued stationary process": "N/A",
+    "subordination": "Q1319775",
+    "spectral measure": "N/A",
+    "orthogonal projection": "N/A"
+  },
+  "49J20,": {
+    "strong closure": "N/A",
+    "feasible state": "N/A",
+    "elliptic operator": "Q427625",
+    "system elliptic equation": "N/A"
+  },
+  "35J50,": {
+    "strong closure": "N/A",
+    "feasible state": "N/A",
+    "elliptic operator": "Q427625",
+    "system elliptic equation": "N/A"
+  },
+  "49J45": {
+    "strong closure": "N/A",
+    "feasible state": "N/A",
+    "elliptic operator": "Q427625",
+    "system elliptic equation": "N/A"
+  },
+  "47B35,": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A"
+  },
+  "47A68,": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A"
+  },
+  "15A09,": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A"
+  },
+  "45F15,": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A",
+    "convolution equation": "N/A",
+    "neutral system": "N/A",
+    "bounded solution": "N/A",
+    "almost periodic function": "Q1066983",
+    "banach space": "Q194397"
+  },
+  "47A05,": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A"
+  },
+  "47G10": {
+    "deltarelated operator": "N/A",
+    "factorization theory": "N/A",
+    "generalized inverse": "Q370634",
+    "relation operator matrix": "N/A",
+    "delta relation": "N/A",
+    "invertibility symbol": "N/A",
+    "generalized inversion": "N/A",
+    "singular integral operator carleman shift": "N/A"
+  },
+  "35Q30,": {
+    "stokes system": "N/A",
+    "maximum modulus theorem": "N/A",
+    "stokespoisson integral formula": "N/A",
+    "weighted function space": "N/A",
+    "local space": "N/A",
+    "solvability property": "N/A"
+  },
+  "35B50,": {
+    "stokes system": "N/A",
+    "maximum modulus theorem": "N/A",
+    "stokespoisson integral formula": "N/A"
+  },
+  "76D07,": {
+    "stokes system": "N/A",
+    "maximum modulus theorem": "N/A",
+    "stokespoisson integral formula": "N/A"
+  },
+  "47A30,": {
+    "stokes system": "N/A",
+    "maximum modulus theorem": "N/A",
+    "stokespoisson integral formula": "N/A"
+  },
+  "15A45": {
+    "stokes system": "N/A",
+    "maximum modulus theorem": "N/A",
+    "stokespoisson integral formula": "N/A"
+  },
+  "76D07": {
+    "stokes system": "N/A",
+    "weighted function space": "N/A",
+    "local space": "N/A",
+    "solvability property": "N/A",
+    "theory stochastic differentiation": "N/A",
+    "twoscale convergence": "N/A",
+    "darcytype law": "N/A",
+    "twopressure stokes system": "N/A"
+  },
+  "31A10,": {
+    "cuspidal domain": "N/A",
+    "existence": "Q468777",
+    "fredholm character": "N/A",
+    "unique solvability": "N/A",
+    "boundary integral equation": "N/A",
+    "dirichlet problem": "Q1192869",
+    "neumann problem": "N/A",
+    "integral operator": "Q43230999",
+    "continuity": "Q382618",
+    "range": "Q438399",
+    "injectivity": "N/A",
+    "exterior dirichlet problem": "N/A",
+    "outward peak": "N/A"
+  },
+  "45A05,": {
+    "cuspidal domain": "N/A",
+    "existence": "Q468777",
+    "fredholm character": "N/A",
+    "unique solvability": "N/A",
+    "boundary integral equation": "N/A",
+    "dirichlet problem": "Q1192869",
+    "neumann problem": "N/A",
+    "integral operator": "Q43230999",
+    "continuity": "Q382618",
+    "range": "Q438399",
+    "injectivity": "N/A",
+    "exterior dirichlet problem": "N/A",
+    "outward peak": "N/A"
+  },
+  "35J05": {
+    "cuspidal domain": "N/A",
+    "existence": "Q468777",
+    "fredholm character": "N/A",
+    "unique solvability": "N/A",
+    "boundary integral equation": "N/A",
+    "dirichlet problem": "Q1192869",
+    "neumann problem": "N/A",
+    "integral operator": "Q43230999",
+    "continuity": "Q382618",
+    "range": "Q438399",
+    "injectivity": "N/A",
+    "exterior dirichlet problem": "N/A",
+    "outward peak": "N/A"
+  },
+  "44A15,": {
+    "stability estimate": "N/A",
+    "kontorovichlebedev transform": "N/A",
+    "macdonald function": "N/A",
+    "regularization": "Q421316",
+    "inversion formula": "N/A",
+    "lebedevskalskaya transform": "N/A"
+  },
+  "65R10,": {
+    "stability estimate": "N/A",
+    "kontorovichlebedev transform": "N/A",
+    "macdonald function": "N/A",
+    "regularization": "Q421316",
+    "inversion formula": "N/A",
+    "lebedevskalskaya transform": "N/A"
+  },
+  "65R30": {
+    "stability estimate": "N/A",
+    "kontorovichlebedev transform": "N/A",
+    "macdonald function": "N/A",
+    "regularization": "Q421316",
+    "inversion formula": "N/A",
+    "lebedevskalskaya transform": "N/A"
+  },
+  "34L05,": {
+    "eigenvalue": "N/A",
+    "positive solution": "N/A",
+    "boundary value problem": "Q1332643"
+  },
+  "34L15": {
+    "eigenvalue": "N/A",
+    "positive solution": "N/A",
+    "boundary value problem": "Q1332643"
+  },
+  "60H10,": {
+    "fractional brownian motion": "N/A",
+    "discrete time approximation": "N/A"
+  },
+  "93C35": {
+    "fractional brownian motion": "N/A",
+    "discrete time approximation": "N/A"
+  },
+  "90C34,": {
+    "market area problem": "N/A",
+    "set partitioning": "N/A",
+    "transportation problem": "N/A",
+    "transportation flow problem": "N/A"
+  },
+  "49N15,": {
+    "market area problem": "N/A",
+    "set partitioning": "N/A",
+    "transportation problem": "N/A",
+    "transportation flow problem": "N/A"
+  },
+  "90B10,": {
+    "market area problem": "N/A",
+    "set partitioning": "N/A",
+    "transportation problem": "N/A",
+    "transportation flow problem": "N/A"
+  },
+  "90C08": {
+    "market area problem": "N/A",
+    "set partitioning": "N/A",
+    "transportation problem": "N/A",
+    "transportation flow problem": "N/A"
+  },
+  "35L65,": {
+    "two discontinuity ray": "N/A",
+    "nonclassical wave": "N/A",
+    "diraccontact wave": "N/A"
+  },
+  "46F10,": {
+    "two discontinuity ray": "N/A",
+    "nonclassical wave": "N/A",
+    "diraccontact wave": "N/A"
+  },
+  "35R05": {
+    "two discontinuity ray": "N/A",
+    "nonclassical wave": "N/A",
+    "diraccontact wave": "N/A"
+  },
+  "47L20,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "46L51,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "46L53,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "46L54,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "47L05,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "47L30,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505",
+    "principal bimodules": "N/A",
+    "nest algebra": "Q6997759",
+    "closed countably generated bimodules": "N/A",
+    "nest element": "N/A"
+  },
+  "46L35,": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "46L89": {
+    "class linear map operator space": "N/A",
+    "pisier vectorvalued noncommutative l^pspaces": "N/A",
+    "schatten class": "N/A",
+    "pnuclear map": "N/A",
+    "banach operator ideal": "N/A",
+    "category operator space": "N/A",
+    "noncommutative quantized functional analysis": "N/A",
+    "w^*algebras": "N/A",
+    "quantum field theory": "Q54505"
+  },
+  "18D05,": {
+    "ncategories": "N/A",
+    "opetopes": "N/A",
+    "coherent algebra": "Q56289856",
+    "slice operad": "N/A"
+  },
+  "18D50": {
+    "ncategories": "N/A",
+    "opetopes": "N/A",
+    "coherent algebra": "Q56289856",
+    "slice operad": "N/A"
+  },
+  "05E05,": {
+    "supersymmetric function": "N/A",
+    "connection coefficient": "N/A"
+  },
+  "05A19": {
+    "supersymmetric function": "N/A",
+    "connection coefficient": "N/A"
+  },
+  "53D05,": {
+    "isotropic submanifold": "N/A",
+    "integral representation": "N/A",
+    "quasimodes": "N/A",
+    "geometric quantization": "Q630426",
+    "symplectic connection": "N/A"
+  },
+  "53C40": {
+    "isotropic submanifold": "N/A",
+    "integral representation": "N/A",
+    "quasimodes": "N/A",
+    "geometric quantization": "Q630426",
+    "symplectic connection": "N/A"
+  },
+  "28A60,": {
+    "decomposition": "Q339062",
+    "factor space": "N/A",
+    "lebesgue space": "Q6511321",
+    "stochastically independent": "N/A",
+    "stochastically commuting": "N/A"
+  },
+  "28C99": {
+    "decomposition": "Q339062",
+    "factor space": "N/A",
+    "lebesgue space": "Q6511321",
+    "stochastically independent": "N/A",
+    "stochastically commuting": "N/A"
+  },
+  "30F60,": {
+    "holomorphic dynamic": "N/A",
+    "quasiconformal": "N/A",
+    "teichm\u00fcller space": "Q2400539",
+    "rational map": "N/A",
+    "fatou set": "Q3054872",
+    "julia set": "Q848427"
+  },
+  "37F30,": {
+    "holomorphic dynamic": "N/A",
+    "quasiconformal": "N/A",
+    "teichm\u00fcller space": "Q2400539",
+    "rational map": "N/A",
+    "fatou set": "Q3054872",
+    "julia set": "Q848427"
+  },
+  "30C62,": {
+    "holomorphic dynamic": "N/A",
+    "quasiconformal": "N/A",
+    "teichm\u00fcller space": "Q2400539",
+    "rational map": "N/A",
+    "fatou set": "Q3054872",
+    "julia set": "Q848427"
+  },
+  "30D05": {
+    "holomorphic dynamic": "N/A",
+    "quasiconformal": "N/A",
+    "teichm\u00fcller space": "Q2400539",
+    "rational map": "N/A",
+    "fatou set": "Q3054872",
+    "julia set": "Q848427"
+  },
+  "46L80,": {
+    "bott periodicity": "N/A",
+    "crossed product": "Q3406705",
+    "compact group": "Q1887083",
+    "grothendieck group": "Q1128678",
+    "complex gvector bundle": "N/A",
+    "reduced equivariant ktheory": "N/A",
+    "mathbb { } /2graded c^*algebra": "N/A",
+    "clifford algebra": "Q674689",
+    "index theory": "N/A",
+    "novikov conjecture": "Q7064908",
+    "homotopy invariance higher signature": "N/A"
+  },
+  "46L55,": {
+    "bott periodicity": "N/A",
+    "crossed product": "Q3406705",
+    "compact group": "Q1887083",
+    "grothendieck group": "Q1128678",
+    "complex gvector bundle": "N/A",
+    "reduced equivariant ktheory": "N/A",
+    "mathbb { } /2graded c^*algebra": "N/A",
+    "clifford algebra": "Q674689",
+    "index theory": "N/A",
+    "novikov conjecture": "Q7064908",
+    "homotopy invariance higher signature": "N/A"
+  },
+  "19K35": {
+    "bott periodicity": "N/A",
+    "crossed product": "Q3406705",
+    "compact group": "Q1887083",
+    "grothendieck group": "Q1128678",
+    "complex gvector bundle": "N/A",
+    "reduced equivariant ktheory": "N/A",
+    "mathbb { } /2graded c^*algebra": "N/A",
+    "clifford algebra": "Q674689",
+    "index theory": "N/A",
+    "novikov conjecture": "Q7064908",
+    "homotopy invariance higher signature": "N/A"
+  },
+  "13D25": {
+    "schur complex": "N/A",
+    "koszul complex": "Q6433699",
+    "row convex shape": "N/A"
+  },
+  "35-02": {
+    "spectral theory": "Q2409122",
+    "maximum principle": "Q1914255",
+    "fluid flow": "N/A",
+    "poincar\u00e9": "Q21448108",
+    "hilbert program": "N/A",
+    "bernstein": "Q21660706",
+    "elliptic equation": "Q107440094",
+    "lerayschauder theory": "N/A",
+    "hadamard": "N/A",
+    "boundary value problem": "Q1332643",
+    "sobolev space": "Q1501536",
+    "schwartz theory distribution": "N/A",
+    "hilbert space method": "N/A",
+    "calderonzygmund theory": "N/A",
+    "hilleyosida theory": "N/A",
+    "degiorginash estimate": "N/A",
+    "gas dynamic": "N/A",
+    "nonlinear functional analysis": "Q7049475",
+    "differential geometry": "Q188444"
+  },
+  "62M10": {
+    "autocovariance operator": "N/A",
+    "linear stochastic difference equation": "N/A",
+    "continued fraction": "Q206816"
+  },
+  "62H05,": {
+    "spherically symmetric distribution": "N/A",
+    "elliptically contoured distribution": "N/A",
+    "serial covariance": "N/A",
+    "moment": "Q1451745",
+    "cone": "Q42344",
+    "random field": "Q5361768",
+    "quadratic form": "Q736753"
+  },
+  "62E15,": {
+    "spherically symmetric distribution": "N/A",
+    "elliptically contoured distribution": "N/A",
+    "serial covariance": "N/A",
+    "moment": "Q1451745",
+    "cone": "Q42344",
+    "random field": "Q5361768",
+    "quadratic form": "Q736753"
+  },
+  "62E10": {
+    "spherically symmetric distribution": "N/A",
+    "elliptically contoured distribution": "N/A",
+    "serial covariance": "N/A",
+    "moment": "Q1451745",
+    "cone": "Q42344",
+    "random field": "Q5361768",
+    "quadratic form": "Q736753"
+  },
+  "22E30,": {
+    "semisimple lie group": "N/A",
+    "abel transform": "Q4666656",
+    "fourier multiplier": "N/A",
+    "zonal spherical function": "Q8073863",
+    "radial maximal operator": "N/A",
+    "heat poisson maximal operator": "N/A",
+    "riesz transform": "Q7333169",
+    "m\u00fcntzszasz theorem": "N/A",
+    "fourier transform": "Q6520159",
+    "nilpotent lie group": "N/A",
+    "unitary representation": "Q10359539",
+    "orbit method": "Q7100049"
+  },
+  "43A90,": {
+    "semisimple lie group": "N/A",
+    "abel transform": "Q4666656",
+    "fourier multiplier": "N/A",
+    "zonal spherical function": "Q8073863",
+    "radial maximal operator": "N/A",
+    "heat poisson maximal operator": "N/A",
+    "riesz transform": "Q7333169"
+  },
+  "22E46": {
+    "semisimple lie group": "N/A",
+    "abel transform": "Q4666656",
+    "fourier multiplier": "N/A",
+    "zonal spherical function": "Q8073863",
+    "radial maximal operator": "N/A",
+    "heat poisson maximal operator": "N/A",
+    "riesz transform": "Q7333169"
+  },
+  "46L05,": {
+    "operator space": "Q7097841",
+    "completely bounded mapping": "N/A",
+    "bimodule": "Q2903821",
+    "relative yoneda cohomology": "N/A",
+    "hochschild cohomology": "N/A",
+    "relative injectivity": "N/A",
+    "projectivity": "N/A",
+    "amenability": "N/A",
+    "derived functor realization": "N/A",
+    "sznagyfoias commutant lifting theorem": "N/A"
+  },
+  "46M20,": {
+    "operator space": "Q7097841",
+    "completely bounded mapping": "N/A",
+    "bimodule": "Q2903821",
+    "relative yoneda cohomology": "N/A",
+    "hochschild cohomology": "N/A",
+    "relative injectivity": "N/A",
+    "projectivity": "N/A",
+    "amenability": "N/A",
+    "derived functor realization": "N/A",
+    "sznagyfoias commutant lifting theorem": "N/A"
+  },
+  "47L10,": {
+    "operator space": "Q7097841",
+    "completely bounded mapping": "N/A",
+    "bimodule": "Q2903821",
+    "relative yoneda cohomology": "N/A",
+    "hochschild cohomology": "N/A",
+    "relative injectivity": "N/A",
+    "projectivity": "N/A",
+    "amenability": "N/A",
+    "derived functor realization": "N/A",
+    "sznagyfoias commutant lifting theorem": "N/A"
+  },
+  "46H25,": {
+    "operator space": "Q7097841",
+    "completely bounded mapping": "N/A",
+    "bimodule": "Q2903821",
+    "relative yoneda cohomology": "N/A",
+    "hochschild cohomology": "N/A",
+    "relative injectivity": "N/A",
+    "projectivity": "N/A",
+    "amenability": "N/A",
+    "derived functor realization": "N/A",
+    "sznagyfoias commutant lifting theorem": "N/A",
+    "principal bimodules": "N/A",
+    "nest algebra": "Q6997759",
+    "closed countably generated bimodules": "N/A",
+    "nest element": "N/A"
+  },
+  "18E25": {
+    "operator space": "Q7097841",
+    "completely bounded mapping": "N/A",
+    "bimodule": "Q2903821",
+    "relative yoneda cohomology": "N/A",
+    "hochschild cohomology": "N/A",
+    "relative injectivity": "N/A",
+    "projectivity": "N/A",
+    "amenability": "N/A",
+    "derived functor realization": "N/A",
+    "sznagyfoias commutant lifting theorem": "N/A"
+  },
+  "43A80,": {
+    "m\u00fcntzszasz theorem": "N/A",
+    "fourier transform": "Q6520159",
+    "nilpotent lie group": "N/A",
+    "unitary representation": "Q10359539",
+    "orbit method": "Q7100049"
+  },
+  "22E25": {
+    "m\u00fcntzszasz theorem": "N/A",
+    "fourier transform": "Q6520159",
+    "nilpotent lie group": "N/A",
+    "unitary representation": "Q10359539",
+    "orbit method": "Q7100049"
+  },
+  "37K99,": {
+    "toeplitz family": "N/A",
+    "index theory": "N/A",
+    "kgroup": "N/A",
+    "spectral flow": "N/A"
+  },
+  "37N20,": {
+    "toeplitz family": "N/A",
+    "index theory": "N/A",
+    "kgroup": "N/A",
+    "spectral flow": "N/A"
+  },
+  "42B15,": {
+    "fractional integral": "N/A",
+    "radon transforms": "N/A",
+    "spherical convolution": "N/A",
+    "beltramilaplace operator": "N/A",
+    "analytical continuation": "N/A",
+    "spherical fourier multiplier": "N/A"
+  },
+  "44A12,": {
+    "fractional integral": "N/A",
+    "radon transforms": "N/A",
+    "spherical convolution": "N/A",
+    "beltramilaplace operator": "N/A",
+    "analytical continuation": "N/A",
+    "spherical fourier multiplier": "N/A"
+  },
+  "26A33": {
+    "fractional integral": "N/A",
+    "radon transforms": "N/A",
+    "spherical convolution": "N/A",
+    "beltramilaplace operator": "N/A",
+    "analytical continuation": "N/A",
+    "spherical fourier multiplier": "N/A"
+  },
+  "46L10": {
+    "principal bimodules": "N/A",
+    "nest algebra": "Q6997759",
+    "closed countably generated bimodules": "N/A",
+    "nest element": "N/A"
+  },
+  "42A85,": {
+    "spherical multilinear convolution": "N/A"
+  },
+  "42B15": {
+    "spherical multilinear convolution": "N/A"
+  },
+  "47L35,": {
+    "csl algebra": "N/A",
+    "csm space": "N/A",
+    "": "N/A",
+    "maximal abelian selfadjoint algebra": "N/A"
+  },
+  "47L30": {
+    "csl algebra": "N/A",
+    "csm space": "N/A",
+    "": "N/A",
+    "maximal abelian selfadjoint algebra": "N/A"
+  },
+  "30D55": {
+    "inner function": "N/A",
+    "invariant subspace": "Q2706744",
+    "carleson measure": "Q5041178",
+    "embedding theorem": "N/A",
+    "hardy space": "Q1585233"
+  },
+  "22E67,": {
+    "logsobolev inequality": "N/A",
+    "loop space": "Q2066070",
+    "riemannian manifold": "Q632814",
+    "heat kernel": "Q3345669",
+    "martingale representation theorem": "Q6777133",
+    "clarkoconehaussman formula": "N/A"
+  },
+  "58J65": {
+    "logsobolev inequality": "N/A",
+    "loop space": "Q2066070",
+    "riemannian manifold": "Q632814",
+    "heat kernel": "Q3345669",
+    "martingale representation theorem": "Q6777133",
+    "clarkoconehaussman formula": "N/A"
+  },
+  "34C20,": {
+    "volterra operator": "Q5313336",
+    "retarded differential equation": "N/A",
+    "hereditary structure": "N/A",
+    "homeomorphism": "Q202906"
+  },
+  "34A25": {
+    "volterra operator": "Q5313336",
+    "retarded differential equation": "N/A",
+    "hereditary structure": "N/A",
+    "homeomorphism": "Q202906"
+  },
+  "45N05,": {
+    "convolution equation": "N/A",
+    "neutral system": "N/A",
+    "bounded solution": "N/A",
+    "almost periodic function": "Q1066983",
+    "banach space": "Q194397"
+  },
+  "45M05,": {
+    "convolution equation": "N/A",
+    "neutral system": "N/A",
+    "bounded solution": "N/A",
+    "almost periodic function": "Q1066983",
+    "banach space": "Q194397"
+  },
+  "42A75": {
+    "convolution equation": "N/A",
+    "neutral system": "N/A",
+    "bounded solution": "N/A",
+    "almost periodic function": "Q1066983",
+    "banach space": "Q194397"
+  },
+  "34D45,": {
+    "lotkavolterra equation": "N/A",
+    "global attractor": "N/A",
+    "arnoldliouville": "N/A",
+    "hyperbolicity": "N/A",
+    "periodic orbit": "N/A"
+  },
+  "92D25,": {
+    "lotkavolterra equation": "N/A",
+    "global attractor": "N/A",
+    "arnoldliouville": "N/A",
+    "hyperbolicity": "N/A",
+    "periodic orbit": "N/A"
+  },
+  "34D20": {
+    "lotkavolterra equation": "N/A",
+    "global attractor": "N/A",
+    "arnoldliouville": "N/A",
+    "hyperbolicity": "N/A",
+    "periodic orbit": "N/A"
+  },
+  "20G05,": {
+    "unimodular group": "N/A",
+    "upper triangular matrix": "N/A",
+    "irreducible complex character": "N/A",
+    "regular character": "Q24964251",
+    "reductive group": "Q1006450",
+    "finite field": "Q603880",
+    "character sheaf": "N/A",
+    "mackey formula": "N/A",
+    "induced representation": "Q3427423",
+    "harishchandra induction": "N/A",
+    "lusztig induction": "N/A",
+    "frobenius morphisms": "N/A",
+    "grothendieck group": "Q1128678"
+  },
+  "20G40": {
+    "unimodular group": "N/A",
+    "upper triangular matrix": "N/A",
+    "irreducible complex character": "N/A",
+    "regular character": "Q24964251",
+    "reductive group": "Q1006450",
+    "finite field": "Q603880",
+    "character sheaf": "N/A",
+    "mackey formula": "N/A",
+    "induced representation": "Q3427423",
+    "harishchandra induction": "N/A",
+    "lusztig induction": "N/A",
+    "frobenius morphisms": "N/A",
+    "grothendieck group": "Q1128678"
+  },
+  "16W30,": {
+    "hopf galois theory": "N/A",
+    "faithfully flat right galois extension": "N/A",
+    "left comodule algebra": "N/A",
+    "left galois extension": "N/A",
+    "bicomodules": "N/A",
+    "bigalois extension": "N/A",
+    "galois connection": "Q1491747",
+    "bijective antipode": "N/A",
+    "quotient coalgebras": "N/A",
+    "lattice hopf subalgebras": "N/A",
+    "tame extension": "N/A",
+    "class group": "N/A",
+    "hopf order": "N/A",
+    "realizable class": "N/A",
+    "galois module structure": "N/A",
+    "cocommutative separable hopf algebra": "N/A"
+  },
+  "06A15,": {
+    "hopf galois theory": "N/A",
+    "faithfully flat right galois extension": "N/A",
+    "left comodule algebra": "N/A",
+    "left galois extension": "N/A",
+    "bicomodules": "N/A",
+    "bigalois extension": "N/A",
+    "galois connection": "Q1491747",
+    "bijective antipode": "N/A",
+    "quotient coalgebras": "N/A",
+    "lattice hopf subalgebras": "N/A"
+  },
+  "12F10": {
+    "hopf galois theory": "N/A",
+    "faithfully flat right galois extension": "N/A",
+    "left comodule algebra": "N/A",
+    "left galois extension": "N/A",
+    "bicomodules": "N/A",
+    "bigalois extension": "N/A",
+    "galois connection": "Q1491747",
+    "bijective antipode": "N/A",
+    "quotient coalgebras": "N/A",
+    "lattice hopf subalgebras": "N/A"
+  },
+  "20D20,": {
+    "pnilpotence": "N/A",
+    "number sylow subgroup": "N/A",
+    "finite group": "Q1057968",
+    "sylow theorem": "N/A",
+    "normal pcomplements": "N/A"
+  },
+  "20D15,": {
+    "pnilpotence": "N/A",
+    "number sylow subgroup": "N/A",
+    "finite group": "Q1057968",
+    "sylow theorem": "N/A",
+    "normal pcomplements": "N/A"
+  },
+  "20D60": {
+    "pnilpotence": "N/A",
+    "number sylow subgroup": "N/A",
+    "finite group": "Q1057968",
+    "sylow theorem": "N/A",
+    "normal pcomplements": "N/A"
+  },
+  "16G20,": {
+    "matrix problem": "N/A",
+    "bipartite posets": "N/A",
+    "prinjective module": "N/A",
+    "tit quadratic form": "N/A",
+    "preprojective component": "N/A",
+    "finite partially ordered set": "N/A",
+    "incidence algebra": "Q371133",
+    "indecomposable prinjective module": "N/A",
+    "critical bipartite posets": "N/A",
+    "auslanderreiten quiver": "N/A"
+  },
+  "16G60,": {
+    "matrix problem": "N/A",
+    "bipartite posets": "N/A",
+    "prinjective module": "N/A",
+    "tit quadratic form": "N/A",
+    "preprojective component": "N/A",
+    "finite partially ordered set": "N/A",
+    "incidence algebra": "Q371133",
+    "indecomposable prinjective module": "N/A",
+    "critical bipartite posets": "N/A",
+    "auslanderreiten quiver": "N/A"
+  },
+  "16G70,": {
+    "matrix problem": "N/A",
+    "bipartite posets": "N/A",
+    "prinjective module": "N/A",
+    "tit quadratic form": "N/A",
+    "preprojective component": "N/A",
+    "finite partially ordered set": "N/A",
+    "incidence algebra": "Q371133",
+    "indecomposable prinjective module": "N/A",
+    "critical bipartite posets": "N/A",
+    "auslanderreiten quiver": "N/A"
+  },
+  "06A06": {
+    "matrix problem": "N/A",
+    "bipartite posets": "N/A",
+    "prinjective module": "N/A",
+    "tit quadratic form": "N/A",
+    "preprojective component": "N/A",
+    "finite partially ordered set": "N/A",
+    "incidence algebra": "Q371133",
+    "indecomposable prinjective module": "N/A",
+    "critical bipartite posets": "N/A",
+    "auslanderreiten quiver": "N/A"
+  },
+  "17B69": {
+    "virasoro algebra": "Q1366201",
+    "representation": "Q249614",
+    "code vertex operator algebra": "N/A",
+    "simple vertex operator algebra": "N/A",
+    "rational conformal vector": "N/A",
+    "virasoro element": "N/A",
+    "elementary abelian automorphism 2group": "N/A",
+    "irreducible module": "N/A",
+    "fusion rule": "N/A"
+  },
+  "16W80,": {
+    "linearly topologized ring": "N/A",
+    "category equivalence": "N/A",
+    "category topologized module": "N/A"
+  },
+  "16D90": {
+    "linearly topologized ring": "N/A",
+    "category equivalence": "N/A",
+    "category topologized module": "N/A"
+  },
+  "20F14,": {
+    "lower central series": "N/A",
+    "derivation": "Q398804",
+    "superadditive sequence": "N/A",
+    "polynomial sequence": "Q1052437"
+  },
+  "08A30": {
+    "lower central series": "N/A",
+    "derivation": "Q398804",
+    "superadditive sequence": "N/A",
+    "polynomial sequence": "Q1052437"
+  },
+  "12F12": {
+    "solvability embedding problem": "N/A",
+    "obstruction": "Q421560"
+  },
+  "16S36,": {
+    "confluence": "Q723748",
+    "polynomial algebra": "N/A",
+    "quadratic algebra": "Q7268354",
+    "koszul complex": "Q6433699",
+    "diamond lemma": "N/A",
+    "tensor algebra": "Q2296021",
+    "reduction operator": "N/A"
+  },
+  "15A72,": {
+    "confluence": "Q723748",
+    "polynomial algebra": "N/A",
+    "quadratic algebra": "Q7268354",
+    "koszul complex": "Q6433699",
+    "diamond lemma": "N/A",
+    "tensor algebra": "Q2296021",
+    "reduction operator": "N/A"
+  },
+  "15A69,": {
+    "confluence": "Q723748",
+    "polynomial algebra": "N/A",
+    "quadratic algebra": "Q7268354",
+    "koszul complex": "Q6433699",
+    "diamond lemma": "N/A",
+    "tensor algebra": "Q2296021",
+    "reduction operator": "N/A"
+  },
+  "15A78,": {
+    "confluence": "Q723748",
+    "polynomial algebra": "N/A",
+    "quadratic algebra": "Q7268354",
+    "koszul complex": "Q6433699",
+    "diamond lemma": "N/A",
+    "tensor algebra": "Q2296021",
+    "reduction operator": "N/A"
+  },
+  "16W50": {
+    "confluence": "Q723748",
+    "polynomial algebra": "N/A",
+    "quadratic algebra": "Q7268354",
+    "koszul complex": "Q6433699",
+    "diamond lemma": "N/A",
+    "tensor algebra": "Q2296021",
+    "reduction operator": "N/A"
+  },
+  "16H05,": {
+    "tame extension": "N/A",
+    "class group": "N/A",
+    "hopf order": "N/A",
+    "realizable class": "N/A",
+    "galois module structure": "N/A",
+    "cocommutative separable hopf algebra": "N/A"
+  },
+  "11R33,": {
+    "tame extension": "N/A",
+    "class group": "N/A",
+    "hopf order": "N/A",
+    "realizable class": "N/A",
+    "galois module structure": "N/A",
+    "cocommutative separable hopf algebra": "N/A"
+  },
+  "11R29": {
+    "tame extension": "N/A",
+    "class group": "N/A",
+    "hopf order": "N/A",
+    "realizable class": "N/A",
+    "galois module structure": "N/A",
+    "cocommutative separable hopf algebra": "N/A"
+  },
+  "20E06,": {
+    "generalized free product": "N/A",
+    "finitely generated torsionfree nilpotent group": "N/A",
+    "residually finite pgroups": "N/A",
+    "tree product": "N/A"
+  },
+  "20E26,": {
+    "generalized free product": "N/A",
+    "finitely generated torsionfree nilpotent group": "N/A",
+    "residually finite pgroups": "N/A",
+    "tree product": "N/A"
+  },
+  "20F18": {
+    "generalized free product": "N/A",
+    "finitely generated torsionfree nilpotent group": "N/A",
+    "residually finite pgroups": "N/A",
+    "tree product": "N/A"
+  },
+  "16N80,": {
+    "essential cover": "N/A",
+    "generalized polynomial identity": "N/A",
+    "lattice radical": "N/A",
+    "complemented radical": "N/A",
+    "special radical": "N/A",
+    "matrix ring finite field": "N/A",
+    "semisimple class": "N/A",
+    "subdirect product": "Q1691827",
+    "direct sum simple ring": "N/A"
+  },
+  "16N60": {
+    "essential cover": "N/A",
+    "generalized polynomial identity": "N/A",
+    "lattice radical": "N/A",
+    "complemented radical": "N/A",
+    "special radical": "N/A",
+    "matrix ring finite field": "N/A",
+    "semisimple class": "N/A",
+    "subdirect product": "Q1691827",
+    "direct sum simple ring": "N/A"
+  },
+  "17B67,": {
+    "kacmoody algebra": "N/A",
+    "lie superalgebras": "N/A",
+    "borel algebra": "N/A",
+    "generalized root decomposition": "N/A",
+    "representation lie superalgebras": "N/A",
+    "weak kacmoody superalgebras": "N/A"
+  },
+  "17B10,": {
+    "kacmoody algebra": "N/A",
+    "lie superalgebras": "N/A",
+    "borel algebra": "N/A",
+    "generalized root decomposition": "N/A",
+    "representation lie superalgebras": "N/A",
+    "weak kacmoody superalgebras": "N/A"
+  },
+  "17A70,": {
+    "kacmoody algebra": "N/A",
+    "lie superalgebras": "N/A",
+    "borel algebra": "N/A",
+    "generalized root decomposition": "N/A",
+    "representation lie superalgebras": "N/A",
+    "weak kacmoody superalgebras": "N/A"
+  },
+  "17B20": {
+    "kacmoody algebra": "N/A",
+    "lie superalgebras": "N/A",
+    "borel algebra": "N/A",
+    "generalized root decomposition": "N/A",
+    "representation lie superalgebras": "N/A",
+    "weak kacmoody superalgebras": "N/A"
+  },
+  "22E10,": {
+    "lie group": "Q622679",
+    "symplectic reduction": "N/A",
+    "plurisubharmonic": "N/A",
+    "moment map": "Q6897118",
+    "complex reductive lie group": "N/A",
+    "stein manifold": "Q931187"
+  },
+  "32M05,": {
+    "lie group": "Q622679",
+    "symplectic reduction": "N/A",
+    "plurisubharmonic": "N/A",
+    "moment map": "Q6897118",
+    "complex reductive lie group": "N/A",
+    "stein manifold": "Q931187"
+  },
+  "37J99": {
+    "lie group": "Q622679",
+    "symplectic reduction": "N/A",
+    "plurisubharmonic": "N/A",
+    "moment map": "Q6897118",
+    "complex reductive lie group": "N/A",
+    "stein manifold": "Q931187"
+  },
+  "65N06,": {
+    "monotone difference scheme": "N/A",
+    "anisotropic driftdiffusion equation": "N/A",
+    "rotated upwind discretization": "N/A",
+    "algorithm": "Q8366",
+    "oscillationfree solution": "N/A",
+    "iterative method": "Q2321565",
+    "numerical example": "N/A"
+  },
+  "65F10,": {
+    "monotone difference scheme": "N/A",
+    "anisotropic driftdiffusion equation": "N/A",
+    "rotated upwind discretization": "N/A",
+    "algorithm": "Q8366",
+    "oscillationfree solution": "N/A",
+    "iterative method": "Q2321565",
+    "numerical example": "N/A",
+    "spectral collocation method": "N/A",
+    "triangular element": "N/A",
+    "auxiliary mapping": "N/A",
+    "preconditioning": "N/A",
+    "domain decomposition": "N/A",
+    "chebyshev collocation method": "N/A",
+    "singular solution": "Q4338245",
+    "finite difference": "Q2068418",
+    "iterative solver": "N/A"
+  },
+  "65N12,": {
+    "monotone difference scheme": "N/A",
+    "anisotropic driftdiffusion equation": "N/A",
+    "rotated upwind discretization": "N/A",
+    "algorithm": "Q8366",
+    "oscillationfree solution": "N/A",
+    "iterative method": "Q2321565",
+    "numerical example": "N/A"
+  },
+  "76X05": {
+    "static equilibrium nonneutral plasma column": "N/A",
+    "stream function": "Q2029236",
+    "`` laplace equation ''": "N/A",
+    "boundary potential": "N/A"
+  },
+  "92C40,": {
+    "molecular distance": "N/A",
+    "unequal rate": "N/A",
+    "gamma distribution": "Q117806",
+    "synonymous site": "N/A",
+    "base frequency": "N/A"
+  },
+  "92D15,": {
+    "molecular distance": "N/A",
+    "unequal rate": "N/A",
+    "gamma distribution": "Q117806",
+    "synonymous site": "N/A",
+    "base frequency": "N/A"
+  },
+  "62P10": {
+    "molecular distance": "N/A",
+    "unequal rate": "N/A",
+    "gamma distribution": "Q117806",
+    "synonymous site": "N/A",
+    "base frequency": "N/A"
+  },
+  "65N30,": {
+    "bsplines": "N/A",
+    "mesh embedding": "N/A",
+    "galerkin method": "Q1491980",
+    "poisson equation": "N/A",
+    "collocation": "Q1122269",
+    "advection equation": "N/A"
+  },
+  "35J05,": {
+    "bsplines": "N/A",
+    "mesh embedding": "N/A",
+    "galerkin method": "Q1491980",
+    "poisson equation": "N/A",
+    "collocation": "Q1122269",
+    "advection equation": "N/A",
+    "spectral collocation method": "N/A",
+    "triangular element": "N/A",
+    "auxiliary mapping": "N/A",
+    "preconditioning": "N/A",
+    "domain decomposition": "N/A",
+    "chebyshev collocation method": "N/A",
+    "singular solution": "Q4338245",
+    "finite difference": "Q2068418",
+    "iterative solver": "N/A"
+  },
+  "65D07,": {
+    "bsplines": "N/A",
+    "mesh embedding": "N/A",
+    "galerkin method": "Q1491980",
+    "poisson equation": "N/A",
+    "collocation": "Q1122269",
+    "advection equation": "N/A"
+  },
+  "65N35": {
+    "bsplines": "N/A",
+    "mesh embedding": "N/A",
+    "galerkin method": "Q1491980",
+    "poisson equation": "N/A",
+    "collocation": "Q1122269",
+    "advection equation": "N/A"
+  },
+  "76S05,": {
+    "laplace transform": "Q199691",
+    "convectiondiffusion equation": "N/A",
+    "firstorder kinetics": "N/A",
+    "integrodifferential approach": "N/A",
+    "preconditioned projection": "N/A",
+    "theory stochastic differentiation": "N/A",
+    "twoscale convergence": "N/A",
+    "darcytype law": "N/A",
+    "twopressure stokes system": "N/A"
+  },
+  "76R99,": {
+    "laplace transform": "Q199691",
+    "convectiondiffusion equation": "N/A",
+    "firstorder kinetics": "N/A",
+    "integrodifferential approach": "N/A",
+    "preconditioned projection": "N/A"
+  },
+  "80A20": {
+    "laplace transform": "Q199691",
+    "convectiondiffusion equation": "N/A",
+    "firstorder kinetics": "N/A",
+    "integrodifferential approach": "N/A",
+    "preconditioned projection": "N/A"
+  },
+  "76M20,": {
+    "acoustic oscillation flattening": "N/A",
+    "bunsen flame": "N/A",
+    "viscous term": "N/A",
+    "cell interface": "N/A",
+    "rankinehugoniot condition": "N/A",
+    "linearized riemann solver": "N/A",
+    "steady premixed laminar flame": "N/A",
+    "steady twodimensional channel flow injection": "N/A",
+    "direct numerical simulation": "Q1227572",
+    "fully developed turbulent channel flow": "N/A",
+    "loworder finite difference method": "N/A",
+    "taylor expansion": "N/A",
+    "coriolis force": "Q169973",
+    "effective angular velocity": "N/A"
+  },
+  "76N15,": {
+    "acoustic oscillation flattening": "N/A",
+    "bunsen flame": "N/A",
+    "viscous term": "N/A",
+    "cell interface": "N/A",
+    "rankinehugoniot condition": "N/A",
+    "linearized riemann solver": "N/A",
+    "steady premixed laminar flame": "N/A",
+    "steady twodimensional channel flow injection": "N/A"
+  },
+  "76V05": {
+    "acoustic oscillation flattening": "N/A",
+    "bunsen flame": "N/A",
+    "viscous term": "N/A",
+    "cell interface": "N/A",
+    "rankinehugoniot condition": "N/A",
+    "linearized riemann solver": "N/A",
+    "steady premixed laminar flame": "N/A",
+    "steady twodimensional channel flow injection": "N/A"
+  },
+  "76D05,": {
+    "direct numerical simulation": "Q1227572",
+    "fully developed turbulent channel flow": "N/A",
+    "loworder finite difference method": "N/A",
+    "taylor expansion": "N/A",
+    "coriolis force": "Q169973",
+    "effective angular velocity": "N/A"
+  },
+  "76F10,": {
+    "direct numerical simulation": "Q1227572",
+    "fully developed turbulent channel flow": "N/A",
+    "loworder finite difference method": "N/A",
+    "taylor expansion": "N/A",
+    "coriolis force": "Q169973",
+    "effective angular velocity": "N/A"
+  },
+  "76U05,": {
+    "direct numerical simulation": "Q1227572",
+    "fully developed turbulent channel flow": "N/A",
+    "loworder finite difference method": "N/A",
+    "taylor expansion": "N/A",
+    "coriolis force": "Q169973",
+    "effective angular velocity": "N/A"
+  },
+  "65M15": {
+    "direct numerical simulation": "Q1227572",
+    "fully developed turbulent channel flow": "N/A",
+    "loworder finite difference method": "N/A",
+    "taylor expansion": "N/A",
+    "coriolis force": "Q169973",
+    "effective angular velocity": "N/A"
+  },
+  "76M23,": {
+    "lagrangian large eddy simulation": "N/A",
+    "filtered vorticity transport equation": "N/A",
+    "subfilter scale velocity": "N/A",
+    "vorticity fluctuation": "N/A",
+    "dynamic eddy diffusivity model": "N/A"
+  },
+  "76F05,": {
+    "lagrangian large eddy simulation": "N/A",
+    "filtered vorticity transport equation": "N/A",
+    "subfilter scale velocity": "N/A",
+    "vorticity fluctuation": "N/A",
+    "dynamic eddy diffusivity model": "N/A"
+  },
+  "65N35,": {
+    "spectral collocation method": "N/A",
+    "triangular element": "N/A",
+    "auxiliary mapping": "N/A",
+    "preconditioning": "N/A",
+    "domain decomposition": "N/A",
+    "chebyshev collocation method": "N/A",
+    "singular solution": "Q4338245",
+    "finite difference": "Q2068418",
+    "iterative solver": "N/A"
+  },
+  "65F35,": {
+    "spectral collocation method": "N/A",
+    "triangular element": "N/A",
+    "auxiliary mapping": "N/A",
+    "preconditioning": "N/A",
+    "domain decomposition": "N/A",
+    "chebyshev collocation method": "N/A",
+    "singular solution": "Q4338245",
+    "finite difference": "Q2068418",
+    "iterative solver": "N/A"
+  },
+  "65N55": {
+    "spectral collocation method": "N/A",
+    "triangular element": "N/A",
+    "auxiliary mapping": "N/A",
+    "preconditioning": "N/A",
+    "domain decomposition": "N/A",
+    "chebyshev collocation method": "N/A",
+    "singular solution": "Q4338245",
+    "finite difference": "Q2068418",
+    "iterative solver": "N/A"
+  },
+  "35L75,": {
+    "global attractor": "N/A"
+  },
+  "35B40,": {
+    "global attractor": "N/A",
+    "polynomial decay": "N/A",
+    "travelling wave": "N/A",
+    "critical front speed": "N/A"
+  },
+  "35L35": {
+    "global attractor": "N/A"
+  },
+  "78A25,": {
+    "regularity": "N/A",
+    "driftdiffusion equation": "N/A",
+    "maxwell equation": "N/A",
+    "chargetransport": "N/A",
+    "semiconductor": "Q11456",
+    "sobolevembedding theorem": "N/A",
+    "fractional order sobolev space": "N/A"
+  },
+  "35Q60,": {
+    "regularity": "N/A",
+    "driftdiffusion equation": "N/A",
+    "maxwell equation": "N/A",
+    "chargetransport": "N/A",
+    "semiconductor": "Q11456",
+    "sobolevembedding theorem": "N/A",
+    "fractional order sobolev space": "N/A"
+  },
+  "82D55": {
+    "regularity": "N/A",
+    "driftdiffusion equation": "N/A",
+    "maxwell equation": "N/A",
+    "chargetransport": "N/A",
+    "semiconductor": "Q11456",
+    "sobolevembedding theorem": "N/A",
+    "fractional order sobolev space": "N/A"
+  },
+  "37C15,": {
+    "h\u00f6lder linearization": "N/A",
+    "hartman grobman theorem": "N/A"
+  },
+  "37C20": {
+    "h\u00f6lder linearization": "N/A",
+    "hartman grobman theorem": "N/A"
+  },
+  "35R10,": {
+    "neutral partial functional differential equation": "N/A",
+    "nondense domain": "N/A",
+    "existence": "Q468777",
+    "uniqueness": "Q22976830"
+  },
+  "35K40,": {
+    "neutral partial functional differential equation": "N/A",
+    "nondense domain": "N/A",
+    "existence": "Q468777",
+    "uniqueness": "Q22976830",
+    "polynomial decay": "N/A",
+    "travelling wave": "N/A",
+    "critical front speed": "N/A"
+  },
+  "35R15": {
+    "neutral partial functional differential equation": "N/A",
+    "nondense domain": "N/A",
+    "existence": "Q468777",
+    "uniqueness": "Q22976830"
+  },
+  "35Q53,": {
+    "water wave problem": "N/A",
+    "kdv equation": "N/A",
+    "nls equation": "N/A",
+    "approximation": "Q27058"
+  },
+  "35Q55,": {
+    "water wave problem": "N/A",
+    "kdv equation": "N/A",
+    "nls equation": "N/A",
+    "approximation": "Q27058"
+  },
+  "76B15": {
+    "water wave problem": "N/A",
+    "kdv equation": "N/A",
+    "nls equation": "N/A",
+    "approximation": "Q27058"
+  },
+  "35K25,": {
+    "estimate hausdorff dimension": "N/A",
+    "local scaling limit": "N/A",
+    "point solution": "N/A"
+  },
+  "35B05": {
+    "estimate hausdorff dimension": "N/A",
+    "local scaling limit": "N/A",
+    "point solution": "N/A"
+  },
+  "35P30,": {
+    "sublinear elliptic boundary value problem": "N/A",
+    "holomorphic perturbation boundary": "N/A"
+  },
+  "35J20,": {
+    "sublinear elliptic boundary value problem": "N/A",
+    "holomorphic perturbation boundary": "N/A"
+  },
+  "35J60,": {
+    "sublinear elliptic boundary value problem": "N/A",
+    "holomorphic perturbation boundary": "N/A"
+  },
+  "35B32": {
+    "sublinear elliptic boundary value problem": "N/A",
+    "holomorphic perturbation boundary": "N/A"
+  },
+  "76M50,": {
+    "theory stochastic differentiation": "N/A",
+    "twoscale convergence": "N/A",
+    "darcytype law": "N/A",
+    "twopressure stokes system": "N/A"
+  },
+  "76M35,": {
+    "theory stochastic differentiation": "N/A",
+    "twoscale convergence": "N/A",
+    "darcytype law": "N/A",
+    "twopressure stokes system": "N/A"
+  },
+  "35B35,": {
+    "polynomial decay": "N/A",
+    "travelling wave": "N/A",
+    "critical front speed": "N/A"
+  },
+  "35K55": {
+    "polynomial decay": "N/A",
+    "travelling wave": "N/A",
+    "critical front speed": "N/A"
+  },
+  "34G20,": {
+    "differential inclusion hilbert space": "N/A",
+    "strong solution": "N/A",
+    "maximal monotone operator": "N/A",
+    "parabolic feedback control system": "N/A"
+  },
+  "34A60,": {
+    "differential inclusion hilbert space": "N/A",
+    "strong solution": "N/A",
+    "maximal monotone operator": "N/A",
+    "parabolic feedback control system": "N/A"
+  },
+  "47E05,": {
+    "differential inclusion hilbert space": "N/A",
+    "strong solution": "N/A",
+    "maximal monotone operator": "N/A",
+    "parabolic feedback control system": "N/A"
+  },
+  "47H05": {
+    "differential inclusion hilbert space": "N/A",
+    "strong solution": "N/A",
+    "maximal monotone operator": "N/A",
+    "parabolic feedback control system": "N/A"
+  },
+  "35L60,": {
+    "reducibility": "N/A",
+    "scalar mongeamp\u00e8re type equation thirdorder": "N/A",
+    "multiple characteristic": "N/A"
+  },
+  "35L80": {
+    "reducibility": "N/A",
+    "scalar mongeamp\u00e8re type equation thirdorder": "N/A",
+    "multiple characteristic": "N/A"
+  },
+  "37B10,": {
+    "invariant curve": "N/A",
+    "symbolic dynamic": "N/A"
+  },
+  "37F20": {
+    "invariant curve": "N/A",
+    "symbolic dynamic": "N/A"
+  },
+  "26B30,": {
+    "variation absolute continuity": "N/A",
+    "generalized riemann integral": "N/A",
+    "lebesgue integral": "N/A",
+    "charge": "Q77076"
+  },
+  "26A39": {
+    "variation absolute continuity": "N/A",
+    "generalized riemann integral": "N/A",
+    "lebesgue integral": "N/A",
+    "charge": "Q77076"
+  },
+  "39A10": {
+    "linear difference equation": "Q364089",
+    "explicit solution": "N/A",
+    "companion matrix": "Q814361"
+  }
+}
