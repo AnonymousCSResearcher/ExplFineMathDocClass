@@ -837,12 +837,12 @@ nr_mscs_cutoff = 10
 
 #1) Generate MSC-keyword mapping
 print('\nGenerate MSC-keyword mapping...\n')
-#cls_ent_idx,ent_cls_idx = generate_msc_keyword_mapping(table,nr_docs)
-#sorted_cls_ent_idx,sorted_ent_cls_idx = sort_and_save_index(cls_ent_idx,ent_cls_idx)
+cls_ent_idx,ent_cls_idx = generate_msc_keyword_mapping(table,nr_docs)
+sorted_cls_ent_idx,sorted_ent_cls_idx = sort_and_save_index(cls_ent_idx,ent_cls_idx)
 #sorted_cls_ent_idx,sorted_ent_cls_idx = load_index()
 #1*) Index statistics
 print('\nIndex statistics:\n')
-#print_index_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
+print_index_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
 
 #2) Predict MSCs
 print('\nPredict MSCs...\n')
@@ -851,7 +851,7 @@ print('\nPredict MSCs...\n')
 #3) Evaluate MSC predictions
 print('\nEvaluate MSC predictions...\n')
 # Get train-test split
-#train_test_split(table,train_split_rate)
+train_test_split(table,train_split_rate)
 #get_sparse_mscs(table)
 # Compare to MR-MSCs and References-MSCs
 compare_mr_keyword_refs_dcgs(table)

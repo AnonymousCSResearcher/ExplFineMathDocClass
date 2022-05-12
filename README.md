@@ -28,9 +28,9 @@ contains all required steps in the data processing pipeline.
 
 After specifiying the
 ```
-fullpath
+data_path = root_path + file_name
 ```
-of the dataset csv file, the
+of the local dataset csv file, the
 ```
 table = pd.read_csv(fullpath,delimiter=',')
 ```
