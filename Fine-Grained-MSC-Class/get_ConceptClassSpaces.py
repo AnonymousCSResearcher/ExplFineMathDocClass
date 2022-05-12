@@ -1,20 +1,24 @@
 import pandas as pd
 import os
 import json
-#import pywikibot
-#import SPARQLWrapper
+import pywikibot
+import SPARQLWrapper
 import time
-
+from EntityLinking.WikiDump import get_Wikipedia_article_names
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-import nltk
+#import nltk
 #nltk.download('punkt')
 #nltk.download('stopwords')
 from nltk import WordNetLemmatizer
 from nltk import ngrams
-
 import numpy as np
-import scipy
+
+# TODO: evaluate against 'OpenRefine'
+# http://ceur-ws.org/Vol-2773/paper-17.pdf
+# https://arxiv.org/pdf/1904.09131.pdf
+# https://github.com/wetneb/opentapioca
+# https://github.com/egerber/spaCy-entity-linker
 
 ##########
 # DEFINE #
@@ -172,27 +176,6 @@ def get_entity_linking_wikidata_ngram(text,n_gram_length):
 
     return entities,qids,link_text
 
-file = "enwiki-latest-all-titles-in-ns0"
-
-def get_Wikipedia_article_names(n_gram_length):
-
-    file = "enwiki-latest-all-titles-in-ns0"
-
-    with open(file,"r",encoding="utf-8") as f:
-        lines = f.readlines()
-
-    #names = []
-    names = {}
-    for line in lines:
-        if len(line.split("_")) == n_gram_length:
-            name = line.strip("\n").replace("_"," ").replace('"','').lower()
-            # LIST
-            #names.append(name)
-            # DICT
-            names[name] = name
-
-    return names
-
 def get_entity_linking_wikipedia(text,n_gram_length):
     # load Wikipedia article name candidates
     Wikipedia_article_names = get_Wikipedia_article_names(n_gram_length)
@@ -338,7 +321,7 @@ def get_mscs(table,idx):
 
 def get_keywords(table,idx):
     keywords = []
-    for keyword in clean(str(table['keyword'][idx])).split(","):
+    for keyword in clean(table['keyword'][idx]).split(","):
         keyword = keyword.lstrip().rstrip()
         for clea_str in [',',"'",'"',"`",'\\']:
             keyword = keyword.strip(clea_str)
@@ -423,13 +406,6 @@ def sort_and_save_index(cls_ent_idx,ent_cls_idx):
 
     return sorted_cls_ent_idx,sorted_ent_cls_idx
 
-def load_index(outpath):
-    with open(outpath + "cls_ent_idx.json", 'r') as f:
-        sorted_cls_ent_idx = json.load(f)
-    with open(outpath + "ent_cls_idx.json", 'r') as f:
-        sorted_ent_cls_idx = json.load(f)
-    return sorted_cls_ent_idx,sorted_ent_cls_idx
-
 # Generate qids for top ten
 def generate_qids(sorted_cls_ent_idx):
     # Save to index and table
@@ -474,7 +450,10 @@ def predict_text_mscs(table,n_gram_lengths):
     prediction_table = pd.DataFrame(columns=['de','mscs_actual','mscs_predicted','confidences','overlap_ratio'])
 
     # Open index
-    sorted_cls_ent_idx,sorted_ent_cls_idx = load_index(outpath)
+    with open(outpath + "cls_ent_idx.json", 'r') as f:
+        sorted_cls_ent_idx = json.load(f)
+    with open(outpath + "ent_cls_idx.json", 'r') as f:
+        sorted_ent_cls_idx = json.load(f)
 
     # mscs actual vs. predicted
     mscs_actual = {}
@@ -545,90 +524,13 @@ def predict_text_mscs(table,n_gram_lengths):
             pass
 
     # save prediction table
-    print('save prediction table...')
-    prediction_table.to_csv(outpath + 'mscs_prediction_table.csv')
+    #prediction_table.to_csv(outpath + 'mscs_prediction_table_binarycontribution0.csv')
 
     print(np.mean(overlap_ratios))
 
     return None
 
-def train_test_split(table,train_split_rate):
 
-    # get split
-    total_docs = len(table)
-    train_split_docs = int(total_docs * train_split_rate)
-    nr_docs = train_split_docs
-    cls_ent_idx, ent_cls_idx = generate_msc_keyword_mapping(table, nr_docs)
-
-    # save train-test split
-    print('save train-test split...')
-    with open('cls_ent_idx_split.json', 'w') as f:
-        json.dump(cls_ent_idx, f)
-    with open('ent_cls_idx_split.json', 'w') as f:
-        json.dump(ent_cls_idx, f)
-
-def get_sparse_mscs(table):
-    # Create msc frequency index
-    msc_freq_idx = {}
-
-    # Iterate documents to get index
-    tot_rows = len(table)
-    for idx in range(tot_rows):
-        mscs = table['MSC'][idx].split()
-        for msc in mscs:
-            try:
-                msc_freq_idx[msc] += 1
-            except:
-                msc_freq_idx[msc] = 1
-
-    # Get sparse mscs
-    for msc in msc_freq_idx.items():
-        msc_name = msc[0]
-        msc_freq = msc[1]
-        if msc_freq < 20:
-            print(msc_name)
-    # 1003 results for < 10
-    # 1507 results for < 10
-
-def predict_mscs(ent_cls_dict):
-    # get confidences
-    for ent in ent_cls_dict.items():
-        ent_key = ent[0]
-        ent_val = ent[1]
-        total = sum(ent_val.values(), 0.0)
-        for msc in ent_val.items():
-            msc_key = msc[0]
-            msc_val = msc[1]
-            ent_cls_dict[ent_key][msc_key] /= total
-
-def print_dataset_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx):
-
-    # average length
-    def get_mean_count(idx):
-        lengths = []
-        for item in idx.items():
-            lengths.append(len(item[1]))
-        avg_length = np.mean(lengths)
-        return avg_length
-    cls_ent_idx_avg_count = get_mean_count(sorted_cls_ent_idx)
-    print('Average entity per class count: ' + str(cls_ent_idx_avg_count))
-    ent_cls_idx_avg_count = get_mean_count(sorted_ent_cls_idx)
-    print('Average class per entity count: ' + str(ent_cls_idx_avg_count))
-
-    # entropy
-    def get_mean_entropy(idx):
-        entropies = []
-        for cls in idx.items():
-            frequencies = [ent[1] for ent in cls[1].items()]
-            entropies.append(scipy.stats.entropy(frequencies))
-        avg_entropy = np.mean(entropies)
-        return avg_entropy
-    cls_ent_idx_avg_entropy = get_mean_entropy(sorted_cls_ent_idx)
-    print('Average entity per class entropy: ' + str(cls_ent_idx_avg_entropy))
-    ent_cls_idx_avg_entropy = get_mean_entropy(sorted_ent_cls_idx)
-    print('Average class per entity entropy: ' + str(ent_cls_idx_avg_entropy))
-
-    return 0
 
 ###########
 # EXECUTE #
@@ -636,35 +538,35 @@ def print_dataset_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx):
 
 # Set paths
 inpath = r'C:\Users\phili\Downloads'
+#filepath = r'C:\Users\Lenovo 17\Downloads'
 filename_input = 'out.csv'#full.csv
 fullpath = os.path.join(inpath,filename_input)
-outpath = ''
+outpath = 'evaluation/alldocs/ngrams_2-3/'
 
-# 0) Load input table
-print('\nLoad input table...\n')
+# Load table
 table = pd.read_csv(fullpath,delimiter=',')
 
 # Set parameter
-tot_rows = len(table)
-train_split_rate = 0.7
-nr_docs = int(tot_rows*train_split_rate)
+#tot_rows = len(table)
+#test_split = 0.5
+#nr_docs = int(tot_rows*test_split)
+#nr_docs = 100
 
 #1) Generate MSC-keyword mapping
-print('\nGenerate MSC-keyword mapping...\n')
-cls_ent_idx,ent_cls_idx = generate_msc_keyword_mapping(table,nr_docs)
-sorted_cls_ent_idx,sorted_ent_cls_idx = sort_and_save_index(cls_ent_idx,ent_cls_idx)
-#sorted_cls_ent_idx,sorted_ent_cls_idx = load_index(outpath)
-#1*) Dataset statistics
-print('\nDataset statistics:\n')
-print_dataset_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
+#cls_ent_idx,ent_cls_idx = generate_msc_keyword_mapping(table,nr_docs)
+#sorted_cls_ent_idx,sorted_ent_cls_idx = sort_and_save_index(cls_ent_idx,ent_cls_idx)
 
-#2) Predict MSCs
-print('\nPredict MSCs...\n')
-predict_text_mscs(table,n_gram_lengths=[2,3])
+#2) Link keywords to QIDs
+#linked_cls_ent_idx = generate_qids(sorted_cls_ent_idx)
 
-#3) Evaluate MSC predictions
-print('\nEvaluate MSC predictions...\n')
-train_test_split(table,train_split_rate)
-get_sparse_mscs(table)
+#3) Generate MSC-QID mapping
+
+#4) Predict text MSCs
+#predict_text_mscs(table,n_gram_lengths=[2,3])
+#5) Predict text QIDs
+
+#6) Generate and evaluate MSC/QID predictions
+
+#TODO: Link Top Ten entries for each class / entity to Wikidata/Wikipedia -> knowledge-graph
 
 print('end')
