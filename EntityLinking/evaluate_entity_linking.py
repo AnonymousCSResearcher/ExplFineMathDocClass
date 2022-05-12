@@ -2,10 +2,8 @@ import pandas as pd
 
 # Open table
 
-evaluation_folder = 'evaluation/100docs/assessed/'
 evaluation_filename = 'Math Entity Linking zbmath keywords evaluation_all.csv'
-evaluation_path = evaluation_folder + evaluation_filename
-table = pd.read_csv(evaluation_path,delimiter=';')
+table = pd.read_csv(evaluation_filename,delimiter=';')
 
 # Retrieve scores
 scores_sparql = table['Score SPARQL']

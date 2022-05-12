@@ -177,7 +177,7 @@ def get_evaluation_nlp_entity_linking(filepath,filename,n_gram_length):
     # remove <math> formula tags
 
     # remove stopwords and punctuation
-    with open("stopwords.txt",'r') as f:
+    with open("stopwords.txt", 'r') as f:
         stopwords = f.readlines()
     punctuations = [',',';','.','!','?']
     for stopword in stopwords:
