@@ -1,0 +1,3 @@
+﻿Method;TP;FP;FN;TN;Precision;Recall;TNR
+Pywikibot;119;0;17;3;1.0;0.875;1.0
+SPARQL;77;1;58;2;0.987;0.570;0.667

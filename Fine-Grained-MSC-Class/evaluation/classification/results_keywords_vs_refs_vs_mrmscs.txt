@@ -1,0 +1,27 @@
+nr_mscs_cutoff = 10
+
+Matching mscs/mrmscs: 53.12039983428385%
+mean_nDCG_mrmscs: 0.6148952124996825
+mean_nDCG_keywords: 0.5347389750836955
+mean_nDCG_refs: 0.4016687405288742
+
+nr_mscs_cutoff = 5
+
+Matching mscs/mrmscs: 53.12039983428385%
+mean_nDCG_mrmscs: 0.6121396381967688
+mean_nDCG_keywords: 0.4869387943800426
+mean_nDCG_refs: 0.32602647560584525
+
+nr_mscs_cutoff = 3
+
+Matching mscs/mrmscs: 53.12039983428385%
+mean_nDCG_mrmscs: 0.5811424140859551
+mean_nDCG_keywords: 0.43966604046352425
+mean_nDCG_refs: 0.26691183844844046
+
+nr_mscs_cutoff = 1
+
+Matching mscs/mrmscs: 53.12039983428385%
+mean_nDCG_mrmscs: 0.34582705288115434
+mean_nDCG_keywords: 0.2662612784205245
+mean_nDCG_refs: 0.15803414262901655
