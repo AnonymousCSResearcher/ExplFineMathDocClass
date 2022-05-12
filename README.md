@@ -92,22 +92,30 @@ get_sparse_mscs(table)
 
 Data and algorithms can be found in the folder 'EntityLinking'.
 
-0) The processed documents are in the folder
+### 0) Documents dataset
+
+The processed documents are in the folder
 ```
 documents/with_msc
 ```
 
-1) To get the class-entity index run
+### 1) Class-entity index
+
+To get the class-entity index run
 ```
 get_class_entity_index(_Wikipedia).py
 ```
 
-2) The Wikipedia article name dump can be accessed via
+### 2) Wikipedia article name dump
+
+The Wikipedia article name dump can be accessed via
 ```
 WikiDump.py
 ```
 
-3) The evaluation of the entity linking (paper Table VI for text comparing eval modes 1-6, and Table VII for math ranking formula concept n-grams) can be reproduced via
+### 3) Scoring evaluation
+
+The evaluation of the entity linking (paper Table VI for text comparing eval modes 1-6, and Table VII for math ranking formula concept n-grams) can be reproduced via
 ```
 get_evaluation_entity_linking.py
 ```
@@ -116,7 +124,9 @@ with the binary scoring (TP, FP, FN, TN) made via
 get_scoring_evaluation_entity_linking.py
 ```
 
-4) An entropy index for 'text' or 'math' mode can be obtained via
+### 4) Entropies
+
+An entropy index for 'text' or 'math' mode can be obtained via
 ```
 get_index_entropies.py
 ```
