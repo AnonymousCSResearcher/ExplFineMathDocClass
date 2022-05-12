@@ -7,13 +7,13 @@ import numpy as np
 
 # set paths
 data_path = "C:\\Users/phili/Downloads/out.csv"
-dict_path = 'evaluation/alldocs/ngrams_2-3/ent_cls_idx_splitting.json'
+dict_path = 'evaluation/alldocs/ngrams_2-3/ent_cls_idx_split.json'
 eval_path = 'evaluation/classification/keywords_vs_refs_mrmscs.csv'
 mrms_path = 'C:\\Users/phili/Downloads/msc-mapping-zbmath-ams.csv'
 
 # set parameter
 nr_mscs_cutoff = 10
-from get_ConceptClassSpaces import test_split
+test_split = 0.7
 
 def load_data():
     # load data
