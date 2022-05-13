@@ -329,7 +329,9 @@ def add_cls_ent(idx,cls,ent):
     return idx
 
 def clean(string):
-    return string.replace('[','').replace(']','').replace('\\','').replace("'",'')
+    if not isinstance(string, str):
+        return ""
+    return string.replace('[', '').replace(']', '').replace('\\', '').replace("'", '')
 
 def get_mscs(table,idx):
     mscs = []
@@ -818,10 +820,10 @@ def compare_mr_keyword_refs_dcgs(table):
 ###########
 
 # Set paths
-root_path = r'C:\Users\phili\Downloads'
+root_path = r'C:\Users\Philipp\Downloads'
 file_name = 'out.csv'
 data_path = os.path.join(root_path,file_name)
-dict_path = 'ent_cls_idx_split.json'
+dict_path = 'ent_cls_idx.json'#_split
 eval_path = 'keywords_vs_refs_mrmscs.csv'
 mrms_path = 'msc-mapping-zbmath-ams.csv'
 
@@ -851,7 +853,7 @@ print('\nPredict MSCs...\n')
 #3) Evaluate MSC predictions
 print('\nEvaluate MSC predictions...\n')
 # Get train-test split
-train_test_split(table,train_split_rate)
+#train_test_split(table,train_split_rate)
 #get_sparse_mscs(table)
 # Compare to MR-MSCs and References-MSCs
 compare_mr_keyword_refs_dcgs(table)

@@ -26,6 +26,10 @@ contains all required steps in the data processing pipeline.
 
 ### 0) Load input table
 
+First download the full
+
+[zbMATH Open Mathematics Subject Classification Dataset](https://zenodo.org/record/6448360#.Yn0W9mBBwhh)
+
 After specifiying the
 ```
 data_path = root_path + file_name
