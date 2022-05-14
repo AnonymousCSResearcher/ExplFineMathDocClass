@@ -14,7 +14,7 @@ We examine relationships between fine-grained subject classes and keyword entiti
 
 Before executing the algorithms, it is necessary to install the python modules into your local virtual environment (venv) using the provided requirements.txt
 
-## Fine-Grained QID and MSC Prediction
+## Fine-Grained MSC Prediction
 
 Data and algorithms can be found in the folder 'Fine-Grained-MSC-Class'.
 
@@ -48,13 +48,6 @@ nr_docs = int(tot_rows*train_split_rate)
 ```
 which can be adapted.
 
-### 1*) Index statistics
-
-The index statistics are generated using
-```
-print_index_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
-```
-
 ### 1) Generate MSC-keyword mapping
 
 First the MSC-keyword/keyword-MSC class-entity/entity-class (cls_ent) index can be created from the input table via
@@ -68,6 +61,13 @@ sorted_cls_ent_idx,sorted_ent_cls_idx = sort_and_save_index(cls_ent_idx,ent_cls_
 After being generated once, in subsequent script executions, the above line may be commented out and the index loaded via
 ```
 sorted_cls_ent_idx,sorted_ent_cls_idx = load_index(outpath)
+```
+
+### 1*) Index statistics
+
+The index statistics are generated using
+```
+print_index_statistics(sorted_cls_ent_idx,sorted_ent_cls_idx)
 ```
 
 ### 2) Predict MSCs
