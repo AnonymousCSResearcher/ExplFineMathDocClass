@@ -3,7 +3,7 @@ import pandas as pd
 # Open table
 
 evaluation_filename = 'zbmath keywords evaluation_all.csv'
-table = pd.read_csv(evaluation_filename,delimiter=';')
+table = pd.read_csv(evaluation_filename,delimiter=',')
 
 # Retrieve scores
 scores_sparql = table['Score SPARQL']
