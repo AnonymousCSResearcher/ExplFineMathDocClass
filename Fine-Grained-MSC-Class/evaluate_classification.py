@@ -820,7 +820,7 @@ def compare_mr_keyword_refs_dcgs(table):
 ###########
 
 # Set paths
-root_path = r'C:\Users\Philipp\Downloads'
+root_path = r''
 file_name = 'out.csv'
 data_path = os.path.join(root_path,file_name)
 dict_path = 'ent_cls_idx.json'#_split
